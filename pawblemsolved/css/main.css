@@ -1,0 +1,101 @@
+HTML,BODY {
+    background: url('../images/PawPrints6.jpg') no-repeat top left;
+    height: 100%;
+    font-size: 14px;
+    font-family: Georgia;
+}
+
+HTML { background: #000 url('../images/gradientBg2.jpg') repeat-x top center; width: 100%; }
+A { color: #c5245d; text-decoration: none;  }
+A H1 { position: absolute; top: 25px; right: -5px; width: 300px; height: 47px; background: url('../images/logo.png') no-repeat; }
+A H1 SPAN { visibility: hidden; }
+A:visited { color: #ff6b96; }
+
+#header { position: relative; height: 95px; }
+/*
+#header DL { position: absolute; top: 70px; left: 15px; width: 300px; }
+#header DL DT { display: block; float: left; padding: 0 10px; font: bold 15px Arial, Helvetica; }
+#header DL DD { display: none; }
+*/
+
+DL#nav  { /*position: absolute; top: 102px; left: 630px; width: 400px; */ float: right; margin: 0 20px 0 0; }
+DL#nav  DT { display: block; float: left; margin: 0 6px;  font: bold 15px Arial, Helvetica; text-align: center; }
+DL#nav  DT A.selected { background: #fff; border: 1px solid #b3b1ac; border-bottom-width: 0px; }
+DL#nav  DT A { color: #000; display: block; background: #b3b1ac  url('../images/paws4.jpg') repeat-x 200px 200px; height: 30px; line-height: 30px;  padding: 0 7px; cursor: pointer; }
+DL#nav  DT A:hover { background-color: #c7c5c0; background-position: 0 0; }
+DL#nav  DT A.selected:hover { background: #fff; }
+DL#nav  DD { display: none; }
+
+#container { width: 1024px; margin: 0 auto; }
+#content {  position: relative; margin: 0; padding: 75px 0 0 0; border: 1px solid #666; background: #e0dfd9; }
+
+.content-image { width: 322px; height: 485px; position: absolute; top: 115px; left: 10px;  z-index: 100; }
+.content-image img { border: 1px solid #000; height: 483px; width: 320px; }
+
+.content-text { width: 682px; min-height: 503px; padding: 0 0 0 332px; background: #fff; overflow: hidden; margin: 0 0 15px 0; }
+.content-text H2 { font: 1.28em Arial, Helvetica; font-weight: bold; padding: 5px 0 0 10px; }
+.content-text H3 { font: bold 1em Arial, Helvetica; padding: 10px 10px 0px 10px; }
+.content-text H4 { font: bold .92em Arial, Helvetica; padding: 10px 10px 0 10px; }
+.content-text H5 { font: bold .85em Arial, Helvetica; padding: 10px 10px 0 10px; }
+.content-text H6 { font: .78em Arial, Helvetica; padding: 0 10px; }
+.content-text P { padding: 6px 10px 10px 10px ; text-align: justify; }
+.content-text P.fine-print { font-size: .71em; text-align: left; }
+.content-text P.intro { padding-top: 20px; }
+.content-text UL { margin: 0 0 5px 0; padding: 0 10px; }
+.content-text LI { padding: 1px 7px 2px 0; list-style-type: disc; margin: 0 0 0 29px;  }
+.content-text UL LI.sub { list-style-type: none;}
+.content-text UL LI.sub LI { list-style-type: circle;}
+
+.content-text UL.addons { margin: 0 0 0 20px; }
+.content-text UL.addons LI {list-style: disc; margin: 0; padding-left: 0; }
+.content-text IMG { border: 1px solid #000; } 
+.content-text EM { font-style: italic; font-size: .8em; }
+.content-text div.box { padding: 4px; border: 1px solid #bababa; background: #efefef; margin: 6px; }
+.content-text div.bone { background: url(../images/bone2.png) no-repeat; width: 340px; height: 207px; font-size: 1.2em; }
+.content-text div.bone BLOCKQUOTE {border: 0px none; margin: 0; background: none; padding: 50px 40px 60px; text-align: center; }
+.content-text div.bone p { text-align: center; }
+.content-text div.bone a { color: #000; outline: 0px none; }
+.content-text div.testimonials BLOCKQUOTE {  padding: 6px 10px 6px 10px ; text-align: justify; font-size: .8em;}
+.content-text div.testimonials CITE {  display: block; padding: 0 10px 10px 10px ; text-align: right; font-style: italic; font-size: .8em; }
+.content-text div.testimonials BLOCKQUOTE span.more { display: none; }
+.content-text div.testimonials A.more-link { display: block; outline: 0px none; font-size: .85em; }
+
+
+.content-text STRONG { font-weight: bold; }
+.content-text .col { width: 340px; float: left;  }
+
+.content-info { position: absolute; top: 3px; left: 10px; font: .9em Arial; }
+.content-info H3 { display: none; }
+.content-info UL { width: 1024px; }
+.content-info UL LI { float: left; display: block; clear: both; padding: 0; }
+.content-info UL LI.last { }
+.content-info STRONG { font-weight: bold; color: #666; display: inline-block; width: 70px; }
+.content-info A { text-decoration: underline; color: #c5245d; }
+.content-info A:visited { color: #ff6b96; }
+
+#quotes { position: absolute; top: 700px; left: 23px; width: 590px; font-family: Arial, Helvetica; display: none;  }
+#quotes li.first { display: block; }
+#quotes li { display: none; font-style: italic; font-size: .9em; }
+#quotes CITE { display: block; margin: 0 0 0 12px; }
+
+#map { margin: 10px 0 0 11px; }
+#insured { position: absolute; bottom: -17px; left: 419px; }
+#insured LI.first { list-style-type: none; padding: 0; }
+#insured LI { color: #333; float: left; list-style-type: disc; margin: 0 25px 0 0px; padding: 0 0 0 5px; }
+#insured LI SPAN { color: #666; font: 11px Arial, Helvetica,Helvetica; }
+
+
+input, select, textarea,
+label { float: left; clear: both; margin: 0 0 0 10px; }
+
+textarea { width: 300px; height: 150px; color: #202352; padding: 2px; }
+label { margin: 8px 0 2px 10px; font-weight: bold; }
+input.text { width: 230px; }
+input.shorttext { width: 60px; }
+input.button { float: right; margin: 10px 25px 0 0; }
+input { color: #202352; padding: 2px; }
+
+
+#emailconfirmation { display: none; }
+
+#footer { background:transparent; height: 100px; position: relative; color: #fff; }

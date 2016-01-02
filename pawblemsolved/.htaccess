@@ -1,0 +1,5 @@
+# Use PHP5 as default
+AddHandler application/x-httpd-php5 .php
+
+#RedirectMatch 301 /aboutme.html http://www.pawblemsolved.com/team.php
+#RedirectMatch 301 (.*)\.html$ http://www.pawblemsolved.com$1.php

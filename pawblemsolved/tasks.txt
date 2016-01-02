@@ -1,0 +1,17 @@
+* Switch to php 
+	- Make sure all the old html pages are re-directed using the .htaccess file
+	- Redirect aboutme.html to team.php
+
+	
+* New Layout
+		
+* New Homepage Information
+	* Paw frame on rotating images.
+		* Rotate images
+		* Transition images
+		* Create paw frame
+
+Image Work
+* Paw frame
+
+Welcome to Pawblem Solved. A professional pet sitting and dog walking business which caters to the Bellevue, Redmond, Kirkland and Issaquah residents.
