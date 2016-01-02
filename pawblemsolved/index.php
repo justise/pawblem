@@ -127,18 +127,13 @@
                     </div>
                 </div>
 
-
-
-
         </div>
-                <hr/>
-
         <?PHP include('includes/footer.php'); ?>
     </div>
-
-            <div class="content-text">
             
-				<div class="section">
+            <!-- Not sure yet what to do with these. -->
+            <div class="content-text">
+				<div class="section TODO">
 					<ul class="buttons">
 						<li class="typeface-js">
 							<a href="http://www.petsitters.org/" target="_blank"><img src="images/napps.png" title="Proud member of National Association of Professional Pet Sitters"/>

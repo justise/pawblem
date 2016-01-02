@@ -1,10 +1,12 @@
 <!--
 	Common footer for the site
 -->
+<hr/>
 <div id="footer">
 	<?PHP include('includes/nav.php'); ?>
     <ul class="contact-info">
 		<li>425-445-7247</li>
+        <li><img src="images/temp6.png"/></li>
 		<li><a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a></li>
 	</ul>
     <!--

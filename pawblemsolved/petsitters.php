@@ -8,6 +8,15 @@
     <div id="container">
         <?PHP include('includes/header.php'); ?>
         <div id="content">
+            <div class="banner-wrapper">
+                <div class="banner">
+                    <img src="images/banners/placeholder6.jpg" width="1920" height="1200" style="top: -100px"/>
+                </div>
+                <div class="banner-text">
+                    <h1>Pawblem Solvers</h1>
+                </div>
+            </div>
+            <br/><br/>
             <div class="content-text">
 				<div class="large-section">
 					<div class="small-col text-align">

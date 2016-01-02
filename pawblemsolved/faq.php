@@ -8,18 +8,21 @@
     <div id="container">
         <?PHP include('includes/header.php'); ?>
         <div id="content">
-            <div class="content-info">
-                <ul>
-                    <li><strong>Phone:</strong> 425-445-7247</li>
-                    <li><strong>Email:</strong> <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a></li>
-                    <li class="last"><strong>Blog:</strong> <a href="http://gracieslittleworld.wordpress.com/">Gracies Little World</a></li>
-                </ul>
+           
+            <div class="banner-wrapper">
+                <div class="banner">
+                    <img src="images/banners/placeholder2.jpg" width="1920" height="1200" style="top: -350px"/>
+                </div>
+                <div class="banner-text">
+                    <h1>Frequently Asked Questions</h1>
+                </div>
             </div>
+            <br/><br/>
+
             <div class="content-text">
 				<div class="section">
 					
 					<div class="big-col">
-						<h2>FAQs</h2>
 						<p>
 							<a href="#mission">What is your mission?</a><br/>
 							<a href="#professional">Why should I hire a professional pet sitter?</a><br/>

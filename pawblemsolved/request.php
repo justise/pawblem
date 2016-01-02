@@ -12,23 +12,82 @@
     <div id="container">
         <?PHP include('includes/header.php'); ?>
         <div id="content">
-			<!--
-            <div class="content-image">
-                <img src="images/tallLeft/cat1.jpg" />
+			
+            <div class="banner-wrapper">
+                <div class="banner">
+                    <img src="images/banners/placeholder4.jpg" width="1920" height="1200" style="top: -100px"/>
+                </div>
+                <div class="banner-text">
+                    <h1>Request Service</h1>
+                </div>
             </div>
-			-->
+
             <div class="content-text">
-				<div class="section">
-					<div class="small-col text-align">
-						<img src="images/tallLeft/cat1.jpg" class="tile"/>
-						<h3>Contact Info:</h3>
-						<p>
-							<a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a><br/>
-							425-445-7247
-						</p>
-					</div>
-					<div class="big-col">
-						<h2>Contact for the Solution to Your Pawblem</h2>
+                
+                        <div id="emailconfirmation" class="statement">
+							<h1>
+                                <strong>Thank you so much for your email!</strong><br/>
+							    We will get back to you shortly on the next steps for caring for your pet(s)!                    
+							</h1>
+						</div>
+ 
+                <br/><br/>
+                <form action="emailform.php" method="POST">
+
+                    <div class="yui3-g-r">
+                        <div class="yui3-u-1-2">
+                            <div class="grid-wrapper">
+                        	    <label>Human Name</label>
+							    <input type="text" class="text required" name="client_name"/>
+								
+							    <label>Email or Phone</label>
+							    <input type="text" class="text" name="client_email"/>
+								
+							    <label>Date Start</label>
+							    <input type="text" class="date" name="startdate"/>
+								
+							    <label>Date End</label>
+							    <input type="text" class="date" name="enddate"/>
+
+                                <label>Number of Dogs</label>
+						        <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
+						        <!-- <select name="dogcount">
+							        <option value="0">0</option>
+							        <option value="1">1</option>
+							        <option value="2">2</option>
+							        <option value="3">3</option>
+							        <option value="4+">4+</option>
+						        </select> -->
+								
+						        <label>Number of Cats or Other</label>
+						        <select name="catcount">
+							        <option value="0">0</option>
+							        <option value="1">1</option>
+							        <option value="2">2</option>
+							        <option value="3">3</option>
+							        <option value="4+">4+</option>
+						        </select>
+                            </div>
+                        </div>  
+                        <div class="yui3-u-1-2">
+                            <div class="grid-wrapper">
+						        <label>Address</label>
+						        <textarea class="shorttext" name="address"></textarea>
+								
+						        <label>How did you hear about us?</label>
+						        <input name="whorefer" name="whorefer" class="text" />
+								
+						        <label>Comments</label>
+						        <textarea name="comments"></textarea>
+                            </div>
+                        </div>     
+                    </div>
+                    <br/>
+                    <center>
+				        <input type="submit" class="button" value="Send"/>  
+                    </center>
+				</form>
+
 						
 						<!--
 						<div>
@@ -77,66 +136,8 @@
 							</strong>
 						</div>
 						-->
-						<div id="emailconfirmation">
-							<h3>Thank you so much for your email!</h3>
-							<p>
-							  We will get back to you shortly on the next steps for caring for your pet(s)!                    
-							</p>
-						</div>
-						<form action="emailform.php" method="POST">
-								
-								<label>Name</label>
-								<input type="text" class="text required" name="client_name"/>
-								
-								<label>Email</label>
-								<input type="text" class="text" name="client_email"/>
-								
-								<label>Date Start</label>
-								<input type="text" class="date" name="startdate"/>
-								
-								<label>Date End</label>
-								<input type="text" class="date" name="enddate"/>
-								
-								<label>Number of Dogs</label>
-								<div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
-								<!-- <select name="dogcount">
-								  <option value="0">0</option>
-								  <option value="1">1</option>
-								  <option value="2">2</option>
-								  <option value="3">3</option>
-								  <option value="4+">4+</option>
-								</select> -->
-								
-								<label>Number of Cats</label>
-								<select name="catcount">
-								  <option value="0">0</option>
-								  <option value="1">1</option>
-								  <option value="2">2</option>
-								  <option value="3">3</option>
-								  <option value="4+">4+</option>
-								</select>
 						
-								<label>Address</label>
-								<textarea class="shorttext" name="address"></textarea>
-								
-								<label>Phone</label>
-								<input type="text" class="text" name="phonenumber"/>
-								
-								<label>How did you hear about us?</label>
-								<input name="whorefer" name="whorefer" class="text" />
-								
-								<label>Comments</label>
-								<textarea name="comments"></textarea>
-								
-								<input type="submit" class="button" value="Send"/>
-							
-						</form>
-
-
-
-					</div>
 				</div>
-            </div>
         </div>
         <?PHP include('includes/footer.php'); ?>
     </div>

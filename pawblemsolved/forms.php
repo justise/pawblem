@@ -8,50 +8,59 @@
     <div id="container">
         <?PHP include('includes/header.php'); ?>
         <div id="content">
-            <div class="content-info">
-                <ul>
-                    <li><strong>Phone:</strong> 425-445-7247</li>
-                    <li><strong>Email:</strong> <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a></li>
-                    <li class="last"><strong>Blog:</strong> <a href="http://gracieslittleworld.wordpress.com/">Gracies Little World</a></li>
-                </ul>
+            <div class="banner-wrapper">
+                <div class="banner">
+                    <img src="images/banners/placeholder3.jpg" width="1920" height="1200" style="top: -200px"/>
+                </div>
+                <div class="banner-text">
+                    <h1>Information Forms</h1>
+                </div>
             </div>
             <div class="content-text">
-				<h2>Caring, Reliable and Trustworthy Service</h2>
-					<P>
-					Please print and complete the appropriate forms prior to leaving on vacation. 
-					These forms ensure that Pawblem Solved has all the necessary bases covered 
-					including, but not limited to; client contact information, veterinary 
-					instructions and release form in case of emergency, and general information 
-					regarding your pet.
-				</P>
-				<p>We look forward to providing the best care possible!</p>
-				<h4>Cancellation Policy</h4>
-				<p>
-					<em>
-						To receive full credit, we ask that you provide a 24 hour notice prior to arrival.
-					</em>
-				</p>
-				<div class="section">
-					<div class="big-col">		
-						<h3>Form for Humans</h3>
-						<p>
-							<a href="downloads/Pawblem Solved Client Forms.pdf" target="_blank">New Client Form</a>
-						</p>
-						<h3>Form for Cats</h3>
-						<p>
-							<a href="downloads/Cat Information Sheet.pdf" target="_blank">Cat Information Sheet</a>
-						</p>
-						<h3>Form for Dogs</h3>
-						<p>
-							<a href="downloads/Dog Information Sheet.pdf" target="_blank">Dog Information Sheet</a>
-						</p>
-					</div>
-					<div class="small-col">
-						<div class="tile">
-							<img src="images/tallLeft/cat2.jpg" />
-						</div>
-					</div>
-				</div>
+                <div class="statement">
+                    <h1>Caring, Reliable and Trustworthy Service</h1>
+                </div>
+                <hr/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <h2>Form for Humans</h2>
+                            <img src="images/temp1.jpg"/>
+                            <p>
+                                The Who, What, When, Where and How.
+                            </p>
+                            <p>
+                                <br/><br/>
+							    <a href="downloads/Pawblem Solved Client Forms.pdf" target="_blank">New Client Form &gt;</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						    <h2>Form for Cats</h2>
+                            <img src="images/temp1.jpg"/>
+                            <p>
+                                Cats cannot be bothered to fill out any forms, so you'll probably have to do it for them.
+                            </p>
+						    <p>
+							    <a href="downloads/Cat Information Sheet.pdf" target="_blank">Cat Information Sheet &gt;</a>
+						    </p>
+                        </div>
+                    </div>
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <h2>Form for Dogs</h2>
+                            <img src="images/temp1.jpg"/>
+                            <p>
+                                Dogs I'm sure would love to complete these forms, but don't have thumbs to hold a pen. Thank you for helping them.
+                            </p>
+						    <p>
+							    <a href="downloads/Dog Information Sheet.pdf" target="_blank">Dog Information Sheet &gt;</a>
+						    </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <?PHP include('includes/footer.php'); ?>

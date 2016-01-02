@@ -8,17 +8,24 @@
     <div id="container">
         <?PHP include('includes/header.php'); ?>
         <div id="content">
-            <div class="content-info">
-                <ul>
-                    <li><strong>Phone:</strong> 425-445-7247</li>
-                    <li><strong>Email:</strong> <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a></li>
-                    <li class="last"><strong>Blog:</strong> <a href="http://gracieslittleworld.wordpress.com/">Gracies Little World</a></li>
-                </ul>
+            <div class="banner-wrapper">
+                <div class="banner">
+                    <img src="images/banners/placeholder4.jpg" width="1920" height="1200" style="top: -350px"/>
+                </div>
+                <div class="banner-text">
+                    <h1>We are Hiring!</h1>
+                </div>
             </div>
             <div class="content-text">
-			<p>
-				Pawblem Solved is hiring for a new Pet Nanny and Dog Walker. You’ll be paid to give love to
-the cutest cats and dogs on the Eastside. Even if you’ve never considered pet sitting in your
+			    <div class="statement">
+                     <h1>
+                         Be paid to give love to the cutest cats and dogs in the world.
+                     </h1>
+                </div>
+                <hr/>
+                <br/>
+                <p>
+				Pawblem Solved is hiring for a new Pet Nanny and Dog Walker. Even if you’ve never considered pet sitting in your
 future before, take a look at all the benefits of this amazing and rewarding job.
 			</p>
             <ul>

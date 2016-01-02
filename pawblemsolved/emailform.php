@@ -2,7 +2,6 @@
 $name = htmlspecialchars($_POST["client_name"]);
 $email = htmlspecialchars($_POST["client_email"]);
 $addy = htmlspecialchars($_POST["address"]);
-$phone = htmlspecialchars($_POST["phonenumber"]);
 $startdate = htmlspecialchars($_POST["startdate"]);
 $enddate = htmlspecialchars($_POST["enddate"]);
 $dogcount = htmlspecialchars($_POST["dogcount"]);
@@ -14,9 +13,8 @@ $emailBody = "
 A new client has requested a date!
 
 Client Name:  $name
-Email: $email
+Email or Phone: $email
 Address: $addy
-Phone: $phone
 Start Date: $startdate
 End Date: $enddate
 Dog Count: $dogcount
