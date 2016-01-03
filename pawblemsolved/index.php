@@ -11,10 +11,10 @@
             <!-- The Big Image -->
             <div class="banner-wrapper">
                 <div class="banner">
-                    <img src="images/banners/placeholder.jpg" width="1920" height="1200"/>
+                    <img src="images/banners/cat2.jpg" style="top: -163px;"/>
                 </div>
                 <div class="banner-text">
-                    <h1>Placeholder Text</h1>
+                    <h1>The Pet Nanny Solution</h1>
                 </div>
             </div>
 
@@ -136,10 +136,6 @@
 				<div class="section TODO">
 					<ul class="buttons">
 						<li class="typeface-js">
-							<a href="http://www.petsitters.org/" target="_blank"><img src="images/napps.png" title="Proud member of National Association of Professional Pet Sitters"/>
-							</a>Proud Member of NAPPS
-						</li>
-						<li class="typeface-js">
 							<a href="http://www.yelp.com/biz/pawblem-solved-bellevue-3" target="_blank"><img src="images/people_love_us_on_yelp.png" title="People love us on yelp"/></a>
 							<a href="http://www.facebook.com/pawblemsolved" target="_blank"><img src="images/facebook.jpg" title="View our facebook page." class="alt"/></a>
 						</li>
@@ -152,6 +148,5 @@
             </div>
         </div>
     <?PHP include('includes/scripts.php'); ?>
-	<script src="script/index.js"></script>
 </body>
 </html>

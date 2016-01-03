@@ -15,7 +15,7 @@
 			
             <div class="banner-wrapper">
                 <div class="banner">
-                    <img src="images/banners/placeholder4.jpg" width="1920" height="1200" style="top: -100px"/>
+                    <img src="images/banners/dog3.jpg" style="top: -888px"/>
                 </div>
                 <div class="banner-text">
                     <h1>Request Service</h1>

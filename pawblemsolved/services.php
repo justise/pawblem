@@ -10,7 +10,7 @@
         <div id="content">
             <div class="banner-wrapper">
                 <div class="banner">
-                    <img src="images/banners/placeholder.jpg" width="1920" height="1200" style="top: -100px"/>
+                    <img src="images/banners/dog5.jpg" style="top: -100px"/>
                 </div>
                 <div class="banner-text">
                     <h1>Services</h1>

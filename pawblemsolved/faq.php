@@ -11,7 +11,7 @@
            
             <div class="banner-wrapper">
                 <div class="banner">
-                    <img src="images/banners/placeholder2.jpg" width="1920" height="1200" style="top: -350px"/>
+                    <img src="images/banners/dog2.jpg" style="top: -29px"/>
                 </div>
                 <div class="banner-text">
                     <h1>Frequently Asked Questions</h1>
