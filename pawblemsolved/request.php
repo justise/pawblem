@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
     <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Request A Date</title>
@@ -14,7 +14,7 @@
         <div id="content">
 			
             <div class="banner-wrapper">
-                <div class="banner">
+                <div class="banner" style="background-image: url(images/banners/dog3.jpg);">
                     <img src="images/banners/dog3.jpg" style="top: -888px"/>
                 </div>
                 <div class="banner-text">
@@ -40,14 +40,22 @@
                         	    <label>Human Name</label>
 							    <input type="text" class="text required" name="client_name"/>
 								
-							    <label>Email or Phone</label>
+							    <label>Email</label>
 							    <input type="text" class="text" name="client_email"/>
 								
-							    <label>Date Start</label>
-							    <input type="text" class="date" name="startdate"/>
+							    <label>Phone</label>
+							    <input type="text" class="text" name="phone"/>
 								
-							    <label>Date End</label>
-							    <input type="text" class="date" name="enddate"/>
+                                <div class="yui3-g-r">
+                                    <div class="yui3-u-1-2">
+                                        <label>Date Start</label>
+							            <input type="text" class="date" name="startdate"/>
+                                    </div>
+                                    <div class="yui3-u-1-2">
+                                        <label>Date End</label>
+							            <input type="text" class="date" name="enddate"/>
+                                    </div>     
+                                </div>
 
                                 <label>Number of Dogs</label>
 						        <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>

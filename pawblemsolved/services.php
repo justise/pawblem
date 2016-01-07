@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Services</title>
@@ -9,8 +9,8 @@
         <?PHP include('includes/header.php'); ?>
         <div id="content">
             <div class="banner-wrapper">
-                <div class="banner">
-                    <img src="images/banners/dog5.jpg" style="top: -100px"/>
+                <div class="banner" style="background-image: url(images/banners/dog5.jpg);">
+                    <!--<img src="images/banners/dog5.jpg" style="top: -100px"/>-->
                 </div>
                 <div class="banner-text">
                     <h1>Services</h1>
@@ -19,7 +19,7 @@
             <div class="content-text">
                        
                 <div class="statement">
-                    <h1>Offering the best in on-leash walks right in your neighborhood.</h1>
+                    <h1>Offering the best in on-leash walks right in your neighborhood, and exceptional in home pet care.</h1>
                 </div>
                 <hr/>
                 <br/>
@@ -27,43 +27,45 @@
                   
                 <div class="yui3-g-r">       
                     <div class="yui3-u-1-3">
-                        <div class="summary">
-                            <img src="images/temp1.jpg"/>
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/dog13.jpg"/>
                         </div>
                     </div>            
                     <div class="yui3-u-2-3">
-                        <div class="summary">
+                        <div class="grid-wrapper">
                             <h2>Monday Through Friday Mid-Day Dog Walks</h2>
                        
 		                    <p>This service is for those pets that need a little more TLC, fresh air and time to stretch their legs during the work week.</p>
 		                    <p>Walks can vary from 1 to 5 times per week depending upon the owners work schedule and needs.</p>
 		                    <p>Great option for new puppies!</p>
-							
+							<p>
+                                <em>Please Note: Pawblem Solved does not currently offer boarding, day care, overnight stays or group park visits.</em>
+                            </p>
                         </div>
                     </div>              
                 </div>
                 <hr/>
                 <div class="yui3-g-r">       
                     <div class="yui3-u-1-3">
-                        <div class="summary">
-                            <img src="images/temp2.jpg"/>
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/cat3.jpg"/>
                         </div>
                     </div>            
                     <div class="yui3-u-2-3">
-						<h2>In-Home Pet Sitting for Cats and Other Small Animals</h2>
-						<p>This is a great option for owners that prefer to keep their pets in the comforts of their own home while they’re on vacation.</p>
-						<p>Visits can vary from 1 to 3 times per day depending upon the needs of the owner and pet.</p>
-						<p>We are happy to water plants, pickup mail, alternate house lights and collect newspapers at no additional charge.</p>
-                        <p>
-                            <em>Please Note: Pawblem Solved does not currently offer boarding, day care, overnight stays or group park visits.</em>
-                        </p>
+                        <div class="grid-wrapper">
+						    <h2>In-Home Pet Sitting for Cats and Other Small Animals</h2>
+						    <p>This is a great option for owners that prefer to keep their pets in the comforts of their own home while they’re on vacation.</p>
+						    <p>Visits can vary from 1 to 3 times per day depending upon the needs of the owner and pet.</p>
+						    <p>We are happy to water plants, pickup mail, alternate house lights and collect newspapers at no additional charge.</p>
+                            
+                        </div>
                     </div>              
                 </div>
                 
                 <hr/>
 
                 <div class="statement">
-                    <h1>Request free daily updates via Paw Logs, text message, or email.</h1>
+                    <h1>Request free daily updates via Paw Logs,<br/> text message, or email.</h1>
                 </div>              
 
                 <hr/>

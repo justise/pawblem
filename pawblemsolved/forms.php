@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
     <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Forms</title>
@@ -9,8 +9,8 @@
         <?PHP include('includes/header.php'); ?>
         <div id="content">
             <div class="banner-wrapper">
-                <div class="banner">
-                    <img src="images/banners/placeholder3.jpg" width="1920" height="1200" style="top: -200px"/>
+                <div class="banner" style="background-image: url(images/banners/dog2.jpg);">
+                    <!--<img src="images/banners/dog2.jpg"/>-->
                 </div>
                 <div class="banner-text">
                     <h1>Information Forms</h1>
@@ -26,12 +26,11 @@
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
                             <h2>Form for Humans</h2>
-                            <img src="images/temp1.jpg"/>
+                            <a href="downloads/Pawblem Solved Client Forms.pdf" target="_blank"><img src="images/tiles/human7.jpg"/></a>
                             <p>
-                                The Who, What, When, Where and How.
+                                Basic contact and address form, emergency veterinary information, and requested services.
                             </p>
                             <p>
-                                <br/><br/>
 							    <a href="downloads/Pawblem Solved Client Forms.pdf" target="_blank">New Client Form &gt;</a>
                             </p>
                         </div>
@@ -39,7 +38,7 @@
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
 						    <h2>Form for Cats</h2>
-                            <img src="images/temp1.jpg"/>
+                            <a href="downloads/Cat Information Sheet.pdf" target="_blank"><img src="images/tiles/cat7.jpg"/></a>
                             <p>
                                 Cats cannot be bothered to fill out any forms, so you'll probably have to do it for them.
                             </p>
@@ -51,7 +50,7 @@
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
                             <h2>Form for Dogs</h2>
-                            <img src="images/temp1.jpg"/>
+                            <a href="downloads/Dog Information Sheet.pdf" target="_blank"><img src="images/tiles/dog16.jpg"/></a>
                             <p>
                                 Dogs I'm sure would love to complete these forms, but don't have thumbs to hold a pen. Thank you for helping them.
                             </p>

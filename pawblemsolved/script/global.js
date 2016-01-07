@@ -4,8 +4,6 @@ $(function(){
 	setSelectedTab();
 });
 
-
-
 function setSelectedTab() {
 	// Get navigation link based on current page.
 	var split = window.location.pathname.split('/');

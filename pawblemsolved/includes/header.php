@@ -3,18 +3,14 @@
 -->
 <div id="header">
 	<div class="header-container">
-        <div id="social-icons">
-			<span>Follow us on:</span>
-			<a href="https://www.facebook.com/pawblemsolved" id="facebook" title="Facebook" target="_blank"><span>Facebook</span></a>
-			<a href="http://twitter.com/pawblemsolved" id="twitter" title="Twitter" target="_blank"><span>Twitter</span></a>
-			<a href="http://www.yelp.com/biz/pawblem-solved-redmond" id="yelp" title="Yelp" target="_blank"><span>Yelp</span></a>
-			
-			<a href="http://gracieslittleworld.com/" id="blog" title="Blog" target="_blank"><span>Blog</span></a>
-			
-		</div>
-		<a href="index.php" class="header-logo"><h1><span>Pawblem<img src="images/temp6.png" style="padding:3px"/>Solved</span></h1><h2><span>Pet Sitting Service</span></h2></a>
-        
+		<a href="index.php" class="header-logo"><h1><span>Pawblem<img src="images/temp6.png" style="padding:3px"/>Solved</span></h1><h2><span>Pet Sitting Service</span></h2></a>        
 	</div>
 	<?PHP include('includes/nav.php'); ?>
-    <a id="hiring" href="jobs.php"><img src="images/hiring.png"/></a>
+    
+    <ul class="social">
+        <li class="yelp"><a href="http://www.yelp.com/biz/pawblem-solved-redmond" target="_blank" title="People love us on Yelp!"><i class="fa fa-yelp"></i></a></li>
+        <li class="blog"><a href="http://www.gracieslittleworld.com" target="_blank" title="Visit my Blog"><i class="fa fa-rss"></i></a></li>
+        <li class="twitter"><a href="http://twitter.com/pawblemsolved" target="_blank" title="Keep up to date with Twitter"><i class="fa fa-twitter"></i></a></li>
+        <li class="facebook"><a href="https://www.facebook.com/pawblemsolved" target="_blank" title="See our Facebook Page"><i class="fa fa-facebook"></i></a></li>
+    </ul>
 </div>

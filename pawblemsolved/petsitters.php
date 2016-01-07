@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
     <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Pawblem Solvers</title>
@@ -9,41 +9,33 @@
         <?PHP include('includes/header.php'); ?>
         <div id="content">
             <div class="banner-wrapper">
-                <div class="banner">
-                    <img src="images/banners/cat3.jpg" style="top: -410px"/>
+                <div class="banner" style="background-image: url(images/banners/cat3.jpg);">
+                    <!--<img src="images/banners/cat3.jpg" style="top: -410px"/>-->
                 </div>
                 <div class="banner-text">
-                    <h1>Pawblem Solvers</h1>
+                    <h1>The Pawblem Solvers</h1>
                 </div>
             </div>
-            <br/><br/>
+            <div class="statement">
+                 <h1>The best of the best.</h1>
+            </div>
+            <hr/><br/>
             <div class="content-text">
-				<div class="large-section">
-					<div class="small-col text-align">
-						<img src="images/team/danielle.jpg" title="Danielle Jaffy" class="tile"/>
-					</div>					
-					<div class="big-col">
-						<div class="names">
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human3.jpg" title="Danielle Jaffy"/>
+                        </div>     
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                        <div class="names">
 							<h2>Danielle Jaffy</h2>
 							<h4>Founder &amp; Full-Time Pet Nanny/Dog Walker</h4>
 						</div>
 						<p>
-							My name is Danielle, I am 
-							<script>
-								/* Little quick and Dirty, its late and I really don't care to be to particular about this. */
-								function monthDiff(d1, d2) {
-									var months;
-									months = (d2.getFullYear() - d1.getFullYear()) * 12;
-									months -= d1.getMonth() + 1;
-									months += d2.getMonth();
-									return months;
-								}
-							
-								var birthday = new Date("03/05/1980");
-								var today = new Date();
-								var monthsDiff = monthDiff(birthday, today);
-								document.write(Math.floor(monthsDiff / 12));
-							</script> years old, and I am the owner of Pawblem Solved.
+							My name is Danielle and I am the owner of Pawblem Solved.
 						</p>
 						<p> 
 							7 years ago, I adopted a ragdoll rescue kitty that I named Gracie. She's a doll.<br/>
@@ -59,106 +51,130 @@
 							I truly believe in this quote: <br/>
 							"We can judge the heart of a man by his treatment of animals." <cite>Immanuel Kant</cite>
 						</p>
-					</div>
-				</div>
-				<div class="large-section">
-					<div class="big-col">
-						<div class="names">
-							<h2>Kris Gray</h2>
-							<h4>Head of IT &amp; Part-Time Pet Nanny/Dog Walker</h4>
-						</div>
-						<p>
-							Kris’s true love for animals began as a young child, when his parents brought him home a little Lhasa Apso he named Jester. Jester moved to Seattle from Alaska with him in April, 2000, where they kept each other company and grounded during the transition to a new city.
-						</p>
-						<p>
-							He currently volunteers with Danielle at events for the Seattle Pug Rescue, and is a part-time pet sitter and dog walker for Pawblem Solved. Though he is a full-time computer programmer, he truly enjoys his time working with the pets. Jester sadly passed away a few years ago, so it gives him the opportunity to still have animals in his life. “There is nothing more rewarding than happy, healthy pets!”
-						</p>
-					</div>	
-					<div class="small-col text-align">
-						<img src="images/krisGray.jpg" title="Kris Gray" class="tile"/>
-					</div>				
-				</div>
-				
-				<div class="large-section">	
-					<div class="small-col text-align">
-						<img src="images/Joan2.jpg" title="Joan Hornby" class="tile"/>
-					</div>
-				
-					<div class="big-col">
-						<div class="names">
-							<h2>Joan Hornby</h2>
-							<h4>CPS: Chief Pawblem Solver</h4>
-						</div>
-						<p>
-						    I am and always will be drawn to animals, I couldn't imagine
-						    growing up, or living life without my furry family additions. My
-						    family consists of two dogs; Durango and Suzie, and three cats;
-						    Jake, Trixie and Zilla. My animals are my children and they are
-						    all spoiled rotten but deservingly so. I owe them so much as they
-						    recently help me get through a most difficult and painful time in my
-						    life.
-						</p>
-						<p>
-						    I have always worked in a corporate environment, behind the
-						    computer, which paid the bills but was never personally satisfying.
-						    Now I look forward to each day caring for the needs of a furry
-						    acquaintance. I have learned a lot from being around animals but
-						    what our pets teach us the most is to see with our heart and to love
-						    without condition.
-						</p>
-					</div>	
-				</div>
-		
-				<div class="large-section">	
-					<div class="big-col">
-						<div class="names">
-							<h2>Lisa Roy</h2>
-							<h4>Pet Nanny and Dog Walker</h4>
-						</div>
-						<p>
-							I have been around animals my whole life. I grew up on a farm in Connecticut, 
-							and remember spending time with a calf because she was lonely when I was not near her.
-						</p>
-						<p>
-							Since moving to Seattle eight years ago, I have enjoyed keeping 
-							pets company while their owners are out of town.  I love being 
-							with them, and getting to understand their personalities.
-						</p>
-						<p>
-							Now that I am in Grad School, walking and loving my four legged 
-							friends has been a great joy.    
-						</p>
-					</div>	
-					<div class="small-col text-align">
-						<img src="images/lisa.jpg" title="Lisa Roy" class="tile"/>
-					</div>
-				
-				</div>
-				
-		
-				<div class="large-section">	
-					<div class="small-col text-align">
-						<img src="images/team/Stevie.jpg" title="Stevie " class="tile"/>
-					</div>
-				
-					<div class="big-col">
-						<div class="names">
-							<h2>Stevie McEldowney</h2>
-							<h4>Pet Nanny and Dog Walker</h4>
-						</div>
-						<p>
-							My name is Stevie and I'm 30 years old. I just moved to the Redmond area about a year ago. 
-						</p>
-						<p>	
-							Ever since I was a little girl I have had a strong passion for animals. I was raised on a 
-							small farm in Oregon. We had cows, a horse, a few goats, dogs and cats...I was in heaven. 
-						</p>
-						<p>
-							Now being able to work with animals is a dream come true. I look forward to work every day.     
-						</p>
-					</div>	
-				</div>
-		
+                        </div>     
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						    <img src="images/tiles/human4.jpg" title="Kris Gray"/>                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+							    <h2>Kris Gray</h2>
+							    <h4>Head of IT &amp; Part-Time Pet Nanny/Dog Walker</h4>
+						    </div>
+						    <p>
+							    Kris’s true love for animals began as a young child, when his parents brought him home a little Lhasa Apso he named Jester. Jester moved to Seattle from Alaska with him in April, 2000, where they kept each other company and grounded during the transition to a new city.
+						    </p>
+						    <p>
+							    He currently volunteers with Danielle at events for the Seattle Pug Rescue, and is a part-time pet sitter and dog walker for Pawblem Solved. Though he is a full-time computer programmer, he truly enjoys his time working with the pets. Jester sadly passed away a few years ago, so it gives him the opportunity to still have animals in his life. “There is nothing more rewarding than happy, healthy pets!”
+						    </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						<img src="images/tiles/human1.jpg" title="Joan Hornby"/>
+
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+							    <h2>Joan Hornby</h2>
+							    <h4>CPS: Chief Pawblem Solver</h4>
+						    </div>
+						    <p>
+						        I am and always will be drawn to animals, I couldn't imagine
+						        growing up, or living life without my furry family additions. My
+						        family consists of two dogs; Durango and Suzie, and three cats;
+						        Jake, Trixie and Zilla. My animals are my children and they are
+						        all spoiled rotten but deservingly so. I owe them so much as they
+						        recently help me get through a most difficult and painful time in my
+						        life.
+						    </p>
+						    <p>
+						        I have always worked in a corporate environment, behind the
+						        computer, which paid the bills but was never personally satisfying.
+						        Now I look forward to each day caring for the needs of a furry
+						        acquaintance. I have learned a lot from being around animals but
+						        what our pets teach us the most is to see with our heart and to love
+						        without condition.
+						    </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						    <img src="images/tiles/human6.jpg" title="Lisa Roy" class="tile"/>
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+							    <h2>Lisa Roy</h2>
+							    <h4>Pet Nanny and Dog Walker</h4>
+						    </div>
+						    <p>
+							    I have been around animals my whole life. I grew up on a farm in Connecticut, 
+							    and remember spending time with a calf because she was lonely when I was not near her.
+						    </p>
+						    <p>
+							    Since moving to Seattle eight years ago, I have enjoyed keeping 
+							    pets company while their owners are out of town.  I love being 
+							    with them, and getting to understand their personalities.
+						    </p>
+						    <p>
+							    Now that I am in Grad School, walking and loving my four legged 
+							    friends has been a great joy.    
+						    </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						    <img src="images/tiles/human9.jpg" title="Stevie McEldowney" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+							    <h2>Stevie McEldowney</h2>
+							    <h4>Pet Nanny and Dog Walker</h4>
+						    </div>
+						    <p>
+							    My name is Stevie and I'm 30 years old. I just moved to the Redmond area about a year ago. 
+						    </p>
+						    <p>	
+							    Ever since I was a little girl I have had a strong passion for animals. I was raised on a 
+							    small farm in Oregon. We had cows, a horse, a few goats, dogs and cats...I was in heaven. 
+						    </p>
+						    <p>
+							    Now being able to work with animals is a dream come true. I look forward to work every day.     
+						    </p>
+                        </div>
+                    </div>
+                </div>
+        		
 				<!-- RETIRED MEMBERS 
 
 				<div class="large-section">	
@@ -314,12 +330,13 @@
 				
 				</div>
 				-->
-				
-				<div class="section hide">
+				<hr/>
+				<center>
+                    <br/>
 					<p>
 						Interested in becoming a Pawblem Solver? Check out our <a href="jobs.php">Jobs</a> page.
 					</p>
-				</div>
+				</center>
 
             </div>
         </div>

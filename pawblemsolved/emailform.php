@@ -1,6 +1,7 @@
 <?php
 $name = htmlspecialchars($_POST["client_name"]);
 $email = htmlspecialchars($_POST["client_email"]);
+$phone = htmlspecialchars($_POST["phone"]);
 $addy = htmlspecialchars($_POST["address"]);
 $startdate = htmlspecialchars($_POST["startdate"]);
 $enddate = htmlspecialchars($_POST["enddate"]);
@@ -13,7 +14,8 @@ $emailBody = "
 A new client has requested a date!
 
 Client Name:  $name
-Email or Phone: $email
+Email: $email
+Phone: $phone
 Address: $addy
 Start Date: $startdate
 End Date: $enddate

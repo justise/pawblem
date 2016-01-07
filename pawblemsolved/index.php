@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
     <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland</title>
@@ -10,8 +10,8 @@
         <div id="content">
             <!-- The Big Image -->
             <div class="banner-wrapper">
-                <div class="banner">
-                    <img src="images/banners/cat2.jpg" style="top: -163px;"/>
+                <div class="banner" style="background-image:  url(images/banners/cat2.jpg);">
+                    <!--<img src="images/banners/cat2.jpg" style="top: -163px;"/>-->
                 </div>
                 <div class="banner-text">
                     <h1>The Pet Nanny Solution</h1>
@@ -22,7 +22,7 @@
             <div class="content-text">
                 
                 <div class="statement">
-                    <h1>This is the placeholder text for the big important statment. Who knows what we will put in here.</h1>
+                    <h1>We strive to provide exceptional care so that each and every pet feels comfortable, safe and happy.</h1>
                 </div>
 
                 <hr/>
@@ -84,8 +84,8 @@
                     <div class="yui3-u-1-3">
                         <div class="summary">
                             <h2>&nbsp;</h2>
-                            <img src="images/temp1.jpg"/>
-                            <img src="images/temp2.jpg"/>
+                            <img src="images/tiles/dog2.jpg"/>
+                            <img src="images/tiles/cat1.jpg"/>
                             
                         </div>
                     </div>  
@@ -96,32 +96,31 @@
                     <div class="yui3-u-1-3">
                         <div class="summary">
                             <h2>Services</h2>
-                            <img src="images/temp3.jpg"/>
-                            <p>Pawblem Solved is a premier boutique dog walking and pet sitting business that caters to those pet owners who are looking for personalized, five-star, quality service.</p>
+                            <a href="services.php"><img src="images/tiles/dog1.jpg"/></a>
+                            <p>Providing loving care to dogs, cats and everything in between.</p>
                             <p>
-                                <a href="services.php">More &gt;</a>
+                                <a href="services.php">See Services &gt;</a>
                             </p>
                         </div>
                     </div>                    
                     <div class="yui3-u-1-3">
                         <div class="summary">
-                            <h2>Titles</h2>
-                            <img src="images/temp3.jpg"/>
-                            <p>Here is some generic text</p>
-                            <p>Here is some generic text</p>
+                            <h2>Team</h2>
+                            <a href="petsitters.php"><img src="images/tiles/human8.jpg"/></a>
+                            <p>We've assembled the greatest collection of pet lovers we can find. </p>
                             <p>
-                                More >
+                                <a href="petsitters.php">Meet The Team &gt;</a>
                             </p>
                         </div>
                     </div>                    
                     <div class="yui3-u-1-3">
                         <div class="summary">
-                            <h2>Titles</h2>
-                            <img src="images/temp3.jpg"/>
-                            <p>Here is some generic text</p>
-                            <p>Here is some generic text</p>
+                            <h2>Request Service</h2>
+                            <a href="request.php"><img src="images/tiles/dog5.jpg"/></a>
+                            <p>We look forward to pampering your pets   .</p>
+                            <br/>
                             <p>
-                                More >
+                                <a href="request.php">Lets Do It &gt;</a>
                             </p>
                         </div>
                     </div>
@@ -132,7 +131,7 @@
     </div>
             
             <!-- Not sure yet what to do with these. -->
-            <div class="content-text">
+            <!--<div class="content-text">
 				<div class="section TODO">
 					<ul class="buttons">
 						<li class="typeface-js">
@@ -146,7 +145,7 @@
 					</ul>
 				</div>
             </div>
-        </div>
+        </div>-->
     <?PHP include('includes/scripts.php'); ?>
 </body>
 </html>

@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
     <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Jobs</title>
@@ -9,8 +9,8 @@
         <?PHP include('includes/header.php'); ?>
         <div id="content">
             <div class="banner-wrapper">
-                <div class="banner">
-                    <img src="images/banners/dog6.jpg" style="top: -372px"/>
+                <div class="banner" style="background-image: url(images/banners/dog10.jpg);">
+                    <!--<img src="images/banners/dog10.jpg" style="top: -328px"/>-->
                 </div>
                 <div class="banner-text">
                     <h1>We are Hiring!</h1>
@@ -24,47 +24,69 @@
                 </div>
                 <hr/>
                 <br/>
-                <p>
-				Pawblem Solved is hiring for a new Pet Nanny and Dog Walker. Even if you’ve never considered pet sitting in your
-future before, take a look at all the benefits of this amazing and rewarding job.
-			</p>
-            <ul>
-                <li>Starting rate of $10 per 30 minute walk/visit. (1 hour walks net you $20)</li>
-                <li>Reimbursement for gas.</li>
-                <li>You set your schedule and decide which jobs to take on.</li>
-                <li>Bonuses based on team member’s commitment, enthusiasm and hard-work.</li>
-                <li>Working for a small company which values providing the very best care for pets and their
-                humans above all else.</li>
-                <li>Mentoring and training on the finer points of pet nanny services and dog walking.</li>
-                <li>Lots of fun coffee dates and team events.</li>
-            </ul>
-		    <h3>What We Are Looking For:</h3>
-			<ul>
-                <li>Someone living in the Bellevue, Redmond or Kirkland area.</li>
-                <li>Clean criminal record.</li>
-                <li>A person who doesn’t mind a little rain with their day.</li>
-                <li>A trusty vehicle for getting around.</li>
-                <li>Lastly, you should label yourself as a true animal lover.</li>
-			</ul>			 
-			<h3>
-				About Us:
-			</h3>
-            <p>
-                We are a small company that looks to provide amazing service to the pets of the Bellevue,
-Redmond and Kirkland area. We focus on healthy and happy pets that are absolutely
-impossible to resist. 
-            </p>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <p>
+				                Pawblem Solved is hiring for a Pet Nanny and Dog Walker. Even if you’ve never considered pet sitting in your
+                future before, take a look at all the benefits of this amazing and rewarding job.
+                                <ul>
+                                    <li>Starting rate of $10 per 30 minute walk/visit. (1 hour walks net you $20)</li>
+                                    <li>Reimbursement for gas.</li>
+                                    <li>You set your schedule and decide which jobs to take on.</li>
+                                    <li>Bonuses based on team member’s commitment, enthusiasm and hard-work.</li>
+                                    <li>Working for a small company which values providing the very best care for pets and their
+                                    humans above all else.</li>
+                                    <li>Mentoring and training on the finer points of pet nanny services and dog walking.</li>
+                                    <li>Lots of fun coffee dates and team events.</li>
+                                </ul>
+			                </p>
+		                    <h3>What We Are Looking For:</h3>
+                            <p>
+			                    <ul>
+                                    <li>Someone living in the Bellevue, Redmond or Kirkland area.</li>
+                                    <li>Clean criminal record.</li>
+                                    <li>A person who doesn’t mind a little rain with their day.</li>
+                                    <li>A trusty vehicle for getting around.</li>
+                                    <li>Lastly, you should label yourself as a true animal lover.</li>
+			                    </ul>
+                            </p>		 
+			                <h3>
+				                About Us:
+			                </h3>
+                            <br/>
+                            <p>
+                               Pawblem Solved is a small, reputable business, which looks to provide amazing service to the pets of 
+                               the Bellevue, Redmond and Kirkland areas. We offer 30 minute Monday through Friday leashed dog walks 
+                               for those pet owners that work long days and can't get home to their pups, as well as 30 minute 
+                               pet-sitting visits. We focus on healthy and happy pets that are absolutely impossible to resist. 
+                               To see our team, visit our <a href="http://www.pawblemsolved.com/petsitters.php">teams page</a>.
+                            </p>
 			
-			<h3>
-				To Apply, Please Email:
-			</h3>
-			<ul>
-				<li>Resume</li>
-				<li>Contact information including; phone number and home address</li>
-				<li>Cover letter describing your experience(s) with animals and any other distinguished information
-that sets you apart from other candidates. The more pet experience you have, the better!</li>
-			</ul>
-			
+			                <h3>
+				                To Apply, Please Email:
+			                </h3>
+                            <p>
+			                    <ul>
+				                    <li>Resume</li>
+				                    <li>Contact information including; phone number and home address</li>
+				                    <li>Cover letter describing your experience(s) with animals and any other distinguished information
+                    that sets you apart from other candidates. The more pet experience you have, the better!</li>
+			                    </ul>
+			                </p>
+                        </div>
+                    </div>
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/dog20.jpg"/>
+                            <br/>
+                            <img src="images/tiles/cat6.jpg"/>
+                        </div>
+                    </div>
+                </div>
+
+              
             </div>
 			<br/>
 			<br/>
