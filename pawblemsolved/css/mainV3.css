@@ -136,13 +136,11 @@ P { font: 16px sans-serif; }
 
 .names H2 { padding-bottom: 0; }
 
-
-
-textarea { width: 430px; height: 150px; color: #202352; padding: 2px; }
-textarea.shorttext  { width: 430px; height: 60px; }
+textarea { width: 100%; height: 150px; color: #202352; padding: 2px; }
+textarea.shorttext  { width: 100%; height: 60px; }
 label {  font-weight: bold; margin-top: 10px; display:  block; }
-input.text { width: 430px; }
-input.shorttext { width: 120px; }
+input.text { width: 100%; }
+input.shorttext { width: 100%; }
 
 
 input.button { margin: 10px; }
@@ -160,6 +158,16 @@ input { color: #202352; padding: 2px; }
 .show { display: block; }
 
 #hiring { position: absolute; top: 4px; left:  4px; display: none; }
+
+/* Banners */
+#content .banner#banner-faq { background-image: url(../images/banners/dog9.jpg); }
+#content .banner#banner-forms { background-image: url(../images/banners/dog2.jpg); }
+#content .banner#banner-home { background-image: url(../images/banners/cat2.jpg); }
+#content .banner#banner-jobs { background-image: url(../images/banners/dog10.jpg); }
+#content .banner#banner-team { background-image: url(../images/banners/cat3.jpg); }
+#content .banner#banner-rates { background-image: url(../images/banners/dog1.jpg); }
+#content .banner#banner-request { background-image: url(../images/banners/dog3.jpg); }
+#content .banner#banner-services { background-image: url(../images/banners/dog5.jpg); }
 
 /* Social Icons */
 #social-icons { position: relative; top: 10px; display: none;}
@@ -184,6 +192,22 @@ input { color: #202352; padding: 2px; }
     #header .social LI.yelp { 
         padding:  0;
     }
+
+
+    /* Banners */
+    #content .banner#banner-faq { background-image: url(../images/bannersMobile/dog9.jpg); }
+    #content .banner#banner-forms { background-image: url(../images/bannersMobile/dog2.jpg); }
+    #content .banner#banner-home { background-image: url(../images/bannersMobile/cat2.jpg); }
+    #content .banner#banner-jobs { background-image: url(../images/bannersMobile/dog10.jpg); }
+    #content .banner#banner-team { background-image: url(../images/bannersMobile/cat3.jpg); }
+    #content .banner#banner-rates { background-image: url(../images/bannersMobile/dog1.jpg); }
+    #content .banner#banner-request { background-image: url(../images/bannersMobile/dog3.jpg); }
+    #content .banner#banner-services { background-image: url(../images/bannersMobile/dog5.jpg); }
+}
+
+/* Not exactly sure, was told it was good though. :) */
+@-ms-viewport{
+  width: device-width;
 }
 
 

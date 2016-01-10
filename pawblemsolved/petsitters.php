@@ -9,8 +9,7 @@
         <?PHP include('includes/header.php'); ?>
         <div id="content">
             <div class="banner-wrapper">
-                <div class="banner" style="background-image: url(images/banners/cat3.jpg);">
-                    <!--<img src="images/banners/cat3.jpg" style="top: -410px"/>-->
+                <div class="banner" id="banner-team">
                 </div>
                 <div class="banner-text">
                     <h1>The Pawblem Solvers</h1>

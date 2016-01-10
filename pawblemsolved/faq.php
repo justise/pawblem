@@ -10,8 +10,7 @@
         <div id="content">
            
             <div class="banner-wrapper">
-                <div class="banner" style="background-image: url(images/banners/dog9.jpg)">
-                    <!--<img src="images/banners/dog9.jpg" style="top: -290px"/>-->
+                <div class="banner" id="banner-faq">
                 </div>
                 <div class="banner-text">
                     <h1>Frequently Asked Questions</h1>

@@ -9,8 +9,7 @@
         <?PHP include('includes/header.php'); ?>
         <div id="content">
             <div class="banner-wrapper">
-                <div class="banner" style="background-image: url(images/banners/dog5.jpg);">
-                    <!--<img src="images/banners/dog5.jpg" style="top: -100px"/>-->
+                <div class="banner" id="banner-services">
                 </div>
                 <div class="banner-text">
                     <h1>Services</h1>
@@ -19,7 +18,7 @@
             <div class="content-text">
                        
                 <div class="statement">
-                    <h1>Offering the best in on-leash walks right in your neighborhood, and exceptional in home pet care.</h1>
+                    <h1>Offering the best in on-leash walks right in your neighborhood, and loving in home pet care.</h1>
                 </div>
                 <hr/>
                 <br/>

@@ -14,8 +14,7 @@
         <div id="content">
 			
             <div class="banner-wrapper">
-                <div class="banner" style="background-image: url(images/banners/dog3.jpg);">
-                    <img src="images/banners/dog3.jpg" style="top: -888px"/>
+                <div class="banner" id="banner-request">
                 </div>
                 <div class="banner-text">
                     <h1>Request Service</h1>

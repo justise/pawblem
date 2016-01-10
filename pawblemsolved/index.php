@@ -10,8 +10,7 @@
         <div id="content">
             <!-- The Big Image -->
             <div class="banner-wrapper">
-                <div class="banner" style="background-image:  url(images/banners/cat2.jpg);">
-                    <!--<img src="images/banners/cat2.jpg" style="top: -163px;"/>-->
+                <div class="banner" id="banner-home">
                 </div>
                 <div class="banner-text">
                     <h1>The Pet Nanny Solution</h1>
