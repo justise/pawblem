@@ -1,8 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Pawblem Solvers</title>
+    <title>Pawblem Solvers - Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
+    <meta name="Description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas. ">
+    <meta property="og:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
+    <meta name="twitter:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
+    <meta property="og:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta name="twitter:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta property="og:url" content="http://www.pawblemsolved.com/petsitters.php"/>
 </head>
 <body>
     <div id="container">
@@ -34,23 +40,30 @@
 							<h4>Founder &amp; Full-Time Pet Nanny/Dog Walker</h4>
 						</div>
 						<p>
-							My name is Danielle and I am the owner of Pawblem Solved.
+							My name is Danielle and I am the founder of Pawblem Solved.
 						</p>
-						<p> 
-							7 years ago, I adopted a ragdoll rescue kitty that I named Gracie. She's a doll.<br/>
-							My family has always owned dogs; Golden Retrievers, Old English Sheepdogs, Shibas.<br/>
-							We also raised Casper, an Umbrella Cockatoo. He had the voice of an opera singer! <br/>
-							When I was 14, I began cleaning horse stalls in exchange for riding lessons.<br/>
-							I joined 4-H when I was 15 and became highly involved with that.<br/>
-							To help put myself through college, I got a job at a veterinary hospital.<br/>
-							I am a member of the National Association of Professional Pet Sitters (NAPPS).<br/>
-							I also actively blog about current pet events, pet care, and various other pet topics.<br/>
-						</p>
+                        <p>
+                            Animals are my passion; I have a bucket list full of animal-related activities, events & goals. <br/>
+                            I grew up with dogs; Golden Retrievers, Old English Sheepdogs, Shibas, Shih Tzus, mixed breeds... <br/>
+                            I love dogs of all temperaments, shapes and sizes! <br/>
+                            We raised Casper, an Umbrella Cockatoo, who had the voice of an opera singer! <br/>
+                            When I was 14, I began cleaning horse stalls in exchange for riding lessons.<br/>
+                            I joined 4-H when I turned 15 and became highly involved with that.<br/>
+                            To help put myself through college, I got a job at a veterinary hospital.<br/>
+                            10 years ago, I adopted a ragdoll rescue kitty that I named Gracie, who quickly became my best friend.<br/>
+                            Since losing Gracie, I adopted two more little furballs; Kona & Riley, who make me smile every day.<br/>
+                            I am currently training with my 14 month old daughter, for a charity run for Old Dog Haven. <br/>
+                            My husband and I have volunteered with the Seattle Pug Rescue for many years. <br/>
+                            We also donate a portion of our income each year to animal shelters & sponsoring final refuge pets. <br/>
+                            I am a member of the <a href="http://www.petsitters.org/">National Association of Professional Pet Sitters (NAPPS)</a>.<br/>
+                            I actively <a href="http://www.gracieslittleworld.com">blog</a> about current pet events, pet care, and various other animal-related topics.<br/>
+                        </p>
 						<p>
 							I truly believe in this quote: <br/>
 							"We can judge the heart of a man by his treatment of animals." <cite>Immanuel Kant</cite>
 						</p>
-                        </div>     
+                         <h5>Service Area: Redmond, Bellevue, Kirkland</h5>
+                        </div>
                     </div>
                 </div>
                 
@@ -67,12 +80,18 @@
                             <div class="names">
 							    <h2>Kris Gray</h2>
 							    <h4>Head of IT &amp; Part-Time Pet Nanny/Dog Walker</h4>
-						    </div>
+                            </div>
 						    <p>
-							    Kris’s true love for animals began as a young child, when his parents brought him home a little Lhasa Apso he named Jester. Jester moved to Seattle from Alaska with him in April, 2000, where they kept each other company and grounded during the transition to a new city.
+							    Kris’s true love for animals began as a young child, when his parents brought him home a little 
+                                Lhasa Apso he named Jester. Jester moved to Kirkland from Alaska with him in April, 2000, 
+                                where they kept each other company during the transition to a new city.
 						    </p>
 						    <p>
-							    He currently volunteers with Danielle at events for the Seattle Pug Rescue, and is a part-time pet sitter and dog walker for Pawblem Solved. Though he is a full-time computer programmer, he truly enjoys his time working with the pets. Jester sadly passed away a few years ago, so it gives him the opportunity to still have animals in his life. “There is nothing more rewarding than happy, healthy pets!”
+							    He currently volunteers with Danielle at events for the Seattle Pug Rescue, and is a 
+                                part-time pet sitter and dog walker for Pawblem Solved. Though he is a full-time computer 
+                                programmer, he truly enjoys his time working with the pets. Jester sadly passed away a 
+                                few years ago, so it gives him the opportunity to still have animals in his life. 
+                                “There is nothing more rewarding than happy, healthy pets!”
 						    </p>
                         </div>
                     </div>
@@ -110,6 +129,7 @@
 						        what our pets teach us the most is to see with our heart and to love
 						        without condition.
 						    </p>
+                            <h5>Service Area: Bellevue, Kirkland</h5>
                         </div>
                     </div>
                 </div>
@@ -141,6 +161,7 @@
 							    Now that I am in Grad School, walking and loving my four legged 
 							    friends has been a great joy.    
 						    </p>
+                            <h5>Service Area: Bellevue, Kirkland</h5>
                         </div>
                     </div>
                 </div>
@@ -170,6 +191,71 @@
 						    <p>
 							    Now being able to work with animals is a dream come true. I look forward to work every day.     
 						    </p>
+                            <h5>Service Area: Redmond</h5>
+                        </div>
+                    </div>
+                </div>
+        		
+                <hr/><br/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						    <img src="images/tiles/human10.jpg" title="Stevie McEldowney" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+							    <h2>Irmgard Tank</h2>
+							    <h4>Pet Nanny and Dog Walker</h4>
+						    </div>
+						    <p>
+							    I am Irmgard and live in Sammamish – I love animals and am really looking forward to bonding with your animal on a regular basis.
+						    </p>
+						    <p>	
+							    Due to pet allergies in my family, it is not possible for me to have my own dog or cat, but given my current availability during the day, I’m hoping to come and spend time and get outdoor exercise for both your dogs as well as myself.
+						    </p>
+						    <p>
+							    In the past, I often helped friends and family take care of their animals during their absence or vacation and enjoyed it immensely.
+						    </p>
+                            <p>
+                                Thank you for allowing me to get to know your special 4-legged family member.
+                            </p>
+                            <h5>Service Area: Redmond</h5>
+                        </div>
+                    </div>
+                </div>
+        		
+                <hr/><br/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						    <img src="images/tiles/human11.jpg" title="Stevie McEldowney" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+							    <h2>JC Carey</h2>
+							    <h4>Pet Nanny and Dog Walker</h4>
+						    </div>
+						    <p>
+							   Hi I’m JC!   
+						    </p>
+						    <p>	
+							    I will always remember at the age of 5 yrs. old, that special day when my mother brought home our Beagle/Basset hound puppy. My love for animals began then.
+						    </p>
+						    <p>
+							    My husband and I have a household filled with four cats (Mia, Aussie, Rocco, Keiko) and two dogs  (Diesel and Rudy), that we love dearly and treat as children. Last year, we adopted Rudy, a senior (11 yrs. old) from Old Dog Haven. We have learned so much about caring for a senior dog. All of our furry “kids” are a bit quirky like Mia my long-haired cat who will steal your shoes in the middle of the night. Lol.
+						    </p>
+                            <p>
+                                It will be my pleasure to provide lots of love and attention to your furry family member! 
+                            </p>
+                            <h5>Service Area: Redmond</h5>
                         </div>
                     </div>
                 </div>

@@ -9,7 +9,10 @@
 		<li><a href="forms.php">Forms</a></li>
 		<li><a href="petsitters.php">Team</a></li>
 		<li><a href="faq.php">FAQs</a></li>
-		<li><a href="jobs.php">Jobs</a></li>
 		<li><a href="request.php">Request a Date</a></li>
+        <li><a href="fundraiser.php" style="color: #c42727">Fundraising for ODH</a></li>
+        <!--
+		<li><a href="jobs.php">Jobs</a></li>
+        -->
 	</ul>
 </div>

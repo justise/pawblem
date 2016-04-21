@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
     <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Jobs</title>
     <?PHP include('includes/meta.php'); ?>
@@ -31,14 +31,15 @@
 				                Pawblem Solved is hiring for a Pet Nanny and Dog Walker. Even if you’ve never considered pet sitting in your
                 future before, take a look at all the benefits of this amazing and rewarding job.
                                 <ul>
-                                    <li>Starting rate of $10 per 30 minute walk/visit. (1 hour walks net you $20)</li>
+                                    <li>Starting rate of $11 per 30 minute walk/visit. (1 hour walks net you $22)</li>
+                                    <li>Typical work weeks range from 10-20 hours a week.</li>
                                     <li>Reimbursement for gas.</li>
                                     <li>You set your schedule and decide which jobs to take on.</li>
                                     <li>Bonuses based on team member’s commitment, enthusiasm and hard-work.</li>
                                     <li>Working for a small company which values providing the very best care for pets and their
                                     humans above all else.</li>
                                     <li>Mentoring and training on the finer points of pet nanny services and dog walking.</li>
-                                    <li>Lots of fun coffee dates and team events.</li>
+                                    <li>Lots of excercise and fresh air.</li>
                                 </ul>
 			                </p>
 		                    <h3>What We Are Looking For:</h3>

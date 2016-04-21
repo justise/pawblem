@@ -1,8 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Rates</title>
+    <title>Dog walking and Pet Sitting Rates - Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
+    <meta name="Description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas.">
+    <meta property="og:title" content="Dog walking and Pet Sitting Rates - Pawblem Solved"/>
+    <meta name="twitter:title" content="Dog walking and Pet Sitting Rates - Pawblem Solved"/>
+    <meta property="og:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta name="twitter:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta property="og:url" content="http://www.pawblemsolved.com/rates.php"/>
 </head>
 <body>
     <div id="container">

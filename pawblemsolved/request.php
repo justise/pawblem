@@ -1,11 +1,18 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Request A Date</title>
+    <title>Request Pet Sitting Services - Pawblem Solved: Dog Walkers and Pet Sitters</title>
 	<?PHP include('includes/meta.php'); ?>
+    <meta name="Description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas.">
+    <meta property="og:title" content="Request Pet Sitting Services - Pawblem Solved"/>
+    <meta name="twitter:title" content="Request Pet Sitting Services - Pawblem Solved"/>
+    <meta property="og:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta name="twitter:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta property="og:url" content="http://www.pawblemsolved.com/request.php"/>
+
     <link href="css/smoothness/jquery-ui-1.7.2.custom.css" rel="stylesheet"/>
     <style>
-    .red { font-weight: bold; color: maroon; }
+        .red { font-weight: bold; color: maroon; }
     </style>
 </head>
 <body>
@@ -22,20 +29,20 @@
             </div>
 
             <div class="content-text">
-                
-                        <div id="emailconfirmation" class="statement">
-							<h1>
-                                <strong>Thank you so much for your email!</strong><br/>
-							    We will get back to you shortly on the next steps for caring for your pet(s)!                    
-							</h1>
-						</div>
+
+                <div id="emailconfirmation" class="statement">
+					<h1>
+                        <strong>Thank you so much for your email!</strong><br/>
+					    We will get back to you shortly on the next steps for caring for your pet(s)!                    
+					</h1>
+				</div>
  
                 <br/><br/>
                 <form action="emailform.php" method="POST">
-
                     <div class="yui3-g-r">
                         <div class="yui3-u-1-2">
                             <div class="grid-wrapper">
+
                         	    <label>Human Name</label>
 							    <input type="text" class="text required" name="client_name"/>
 								
@@ -57,14 +64,17 @@
                                 </div>
 
                                 <label>Number of Dogs</label>
-						        <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
-						        <!-- <select name="dogcount">
+						       <!--
+                                <div class="input-message" style="display:none">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
+						         -->
+                                
+                                <select name="dogcount">
 							        <option value="0">0</option>
 							        <option value="1">1</option>
 							        <option value="2">2</option>
 							        <option value="3">3</option>
 							        <option value="4+">4+</option>
-						        </select> -->
+						        </select>
 								
 						        <label>Number of Cats or Other</label>
 						        <select name="catcount">
@@ -94,7 +104,6 @@
 				        <input type="submit" class="button" value="Send"/>  
                     </center>
 				</form>
-
 						
 						<!--
 						<div>
@@ -118,15 +127,15 @@
 								</p>
 						</div>
 						
-						<div>
+		                <div id="vacationresponse">
 							<br/>
 							<strong>
 								<p>
-									Pawblem Solved will be out of the office from Wednesday, October 28th to 
-									Monday, November 10th, 2014.
+									Pawblem Solved will be out of the office from Wednesday, March 2nd to 
+									Monday, March 7th, 2016.
 								</p>
 								<p>
-									We will reply to all inquiries after Monday, November 10th, 2014.
+									We will reply to all inquiries after Monday, March 7th, 2016.
 								</p>
 								<p>
 									If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
@@ -142,9 +151,10 @@
 								</p>
 							</strong>
 						</div>
+
 						-->
 						
-				</div>
+			</div>
         </div>
         <?PHP include('includes/footer.php'); ?>
     </div>

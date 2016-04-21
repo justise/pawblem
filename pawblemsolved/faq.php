@@ -1,8 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Testimonials</title>
+    <title>Frequently Asked Questions - Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
+    <meta name="Description" content="Frequently Asked Questions for Pawblem Solved Dog Walking and Pet Siting services.">
+    <meta property="og:title" content="Frequently Asked Questions - Pawblem Solved: Dog Walkers and Pet Sitters"/>
+    <meta name="twitter:title" content="Frequently Asked Questions - Pawblem Solved: Dog Walkers and Pet Sitters"/>
+    <meta property="og:description" content="Frequently Asked Questions for Pawblem Solved dog walking and pet siting services."/>
+    <meta name="twitter:description" content="Frequently Asked Questions for Pawblem Solved dog walking and pet siting services."/>
+    <meta property="og:url" content="http://www.pawblemsolved.com/faq.php"/>
 </head>
 <body>
     <div id="container">
@@ -37,6 +43,7 @@
 	                                <li><a href="#payment">What type of payment do you accept?</a></li>
 	                                <li><a href="#servicehours">What are your service hours?</a></li>
                                    <li><a href="#cancellationpolicy">What is your cancellation policy?</a></li>
+                                   <li><a href="#servicearea">How do I know if you service my area?</a></li>
                                 </ul>
 						    </p>
 						    <br/>
@@ -88,6 +95,10 @@
                             <p>Your visits are very important to the Pawblem Solved team and are reserved especially for you and your pets. We understand that sometimes schedule adjustments are necessary; therefore, we respectfully request at least 24 hours notice for cancellations.</p>
                             <p>Please understand that when you cancel your visit without giving enough notice, we miss the opportunity to fill that time.</p>
                             <p>Less than 24 hour notice will result in a charge equal to 50% of the reserved service amount.</p>
+
+                            <h2 id="servicearea">What areas do you service?</h2>
+                            <p>We cover all areas of Redmond, Kirkland and Bellevue.</p>
+                            <!--<p>By focusing on these areas, we're able to ensure each areas pets receive the maximum amount of our time and attention vs having to drive great distances between appointments.</p>-->
                         </div>
                     </div>
                     <div class="yui3-u-1-4">

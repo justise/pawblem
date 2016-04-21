@@ -93,7 +93,8 @@ P { font: 16px sans-serif; }
 
 
 .content-text H2 { color: #e6a83d; font: 300 24px 'Roboto', sans-serif; padding: 0 17px 12px 0; }
-.content-text H4 { font: 300 16px 'Roboto', sans-serif; padding: 0 17px 12px 0;  }
+.content-text H4 { font: 300 16px 'Roboto', sans-serif; padding: 6px 17px 5px 0;  }
+.content-text H5 { font: 300 14px 'Roboto', sans-serif; padding: 0 0 5px 0;  }
 .content-text P { margin: 0 0 24px 0;}
 
 .content-text .strong { color: red; }
@@ -148,6 +149,7 @@ input[type=submit] { float: none; }
 input { color: #202352; padding: 2px; }
 
 #emailconfirmation { display: none; }
+#vacationresponse strong { font-weight: bold; color: #333;}
 
 .slideshow { position: relative; }
 .slideshow IMG { display: none; position: absolute; top: 0; left: 0; }

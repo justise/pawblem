@@ -1,8 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland</title>
+    <title>Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
+    <meta name="Description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks.">
+    <meta property="og:title" content="Pawblem Solved: Dog Walkers and Pet Sitters"/>
+    <meta name="twitter:title" content="Pawblem Solved: Dog Walkers and Pet Sitters"/>
+    <meta property="og:description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
+    <meta name="twitter:description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
+    <meta property="og:url" content="http://www.pawblemsolved.com/"/>
 </head>
 <body>
     <div id="container">
@@ -83,8 +89,8 @@
                     <div class="yui3-u-1-3">
                         <div class="summary">
                             <h2>&nbsp;</h2>
-                            <img src="images/tiles/dog2.jpg"/>
-                            <img src="images/tiles/cat1.jpg"/>
+                            <img src="images/tiles/dog2.jpg" alt="Dog Walk in Redmond"/>
+                            <img src="images/tiles/cat1.jpg" alt="Cat Visit in Bellevue"/>
                             
                         </div>
                     </div>  
@@ -95,7 +101,7 @@
                     <div class="yui3-u-1-3">
                         <div class="summary">
                             <h2>Services</h2>
-                            <a href="services.php"><img src="images/tiles/dog1.jpg"/></a>
+                            <a href="services.php"><img src="images/tiles/dog1.jpg" alt="Dog Walking Services Image"/></a>
                             <p>Providing loving care to dogs, cats and everything in between.</p>
                             <p>
                                 <a href="services.php">See Services &gt;</a>
@@ -105,8 +111,8 @@
                     <div class="yui3-u-1-3">
                         <div class="summary">
                             <h2>Team</h2>
-                            <a href="petsitters.php"><img src="images/tiles/human8.jpg"/></a>
-                            <p>We've assembled the greatest collection of pet lovers we can find. </p>
+                            <a href="petsitters.php"><img src="images/tiles/human8.jpg" alt="Danielle With Cute Dog"/></a>
+                            <p>We've assembled the greatest collection of pet lovers ever. </p>
                             <p>
                                 <a href="petsitters.php">Meet The Team &gt;</a>
                             </p>
@@ -115,7 +121,7 @@
                     <div class="yui3-u-1-3">
                         <div class="summary">
                             <h2>Request Service</h2>
-                            <a href="request.php"><img src="images/tiles/dog5.jpg"/></a>
+                            <a href="request.php"><img src="images/tiles/dog5.jpg" alt="Request Services Dog"/></a>
                             <p>We look forward to pampering your pets   .</p>
                             <br/>
                             <p>
