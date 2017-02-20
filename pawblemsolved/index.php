@@ -97,38 +97,12 @@
                 </div>
                 <br/>
                 <hr/>
-                <div class="yui3-g-r">
-                    <div class="yui3-u-1-3">
-                        <div class="summary">
-                            <h2>Services</h2>
-                            <a href="services.php"><img src="images/tiles/dog1.jpg" alt="Dog Walking Services Image"/></a>
-                            <p>Providing loving care to dogs, cats and everything in between.</p>
-                            <p>
-                                <a href="services.php">See Services &gt;</a>
-                            </p>
-                        </div>
-                    </div>                    
-                    <div class="yui3-u-1-3">
-                        <div class="summary">
-                            <h2>Team</h2>
-                            <a href="petsitters.php"><img src="images/tiles/human8.jpg" alt="Danielle With Cute Dog"/></a>
-                            <p>We've assembled the greatest collection of pet lovers ever. </p>
-                            <p>
-                                <a href="petsitters.php">Meet The Team &gt;</a>
-                            </p>
-                        </div>
-                    </div>                    
-                    <div class="yui3-u-1-3">
-                        <div class="summary">
-                            <h2>Request Service</h2>
-                            <a href="request.php"><img src="images/tiles/dog5.jpg" alt="Request Services Dog"/></a>
-                            <p>We look forward to pampering your pets   .</p>
-                            <br/>
-                            <p>
-                                <a href="request.php">Lets Do It &gt;</a>
-                            </p>
-                        </div>
-                    </div>
+                <div class="center sub-banner" id="sub-banner-index">
+                    <a class="button" href="/services.php">Services</a>
+                    <a class="button" href="http://www.yelp.com/biz/pawblem-solved-redmond">Reviews</a>
+                    <a class="button" href="/team.php">Team</a>
+                    <a class="button" href="/request.php">Request</a>
+                    <a class="button" href="/jobs.php">Hiring</a>
                 </div>
 
         </div>

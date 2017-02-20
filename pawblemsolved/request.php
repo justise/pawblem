@@ -35,10 +35,56 @@
                         <strong>Thank you so much for your email!</strong><br/>
 					    We will get back to you shortly on the next steps for caring for your pet(s)!                    
 					</h1>
+                    <br/><br/>
 				</div>
- 
-                <br/><br/>
+                          
+                <div class="busy-message">
+                  
+                    Beginning mid-February, we will be accepting new mid-day walks, while mom & dad are at work, and kitty clients in the Bellevue, Redmond & Kirkland areas.
+                    <br/><br/>
+
+                    If you are a current client, or would like to book our services beginning mid-February or beyond, please contact us at <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>.
+                    <br/><br/>
+
+                    We look forward to meeting some new furry friends!
+                    <br/><br/>
+
+                    ~ The Pawblem Solved Team
+                </div>
+						       
+                <!--
+                 <div id="vacationresponse">
+							<br/>
+							<strong>
+								<p>
+									Pawblem Solved will be out of the office from Saturday, December 3rd to 
+									Sunday, December 11th, 2016.
+								</p>
+								<p>
+									We will reply to all inquiries after Sunday December 11th, 2016.
+								</p>
+								<p>
+									If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
+								</p>
+								<p> 
+									Thanks again! 
+								</p>
+								<p>
+									We look forward to meeting some new furry friends!
+								</p>
+								<p>
+									~ The Pawblem Solved Team
+								</p>
+							</strong>
+						</div>
+                 -->    
+                 <!--
                 <form action="emailform.php" method="POST">
+                                    <div class="statement">
+                    <h1>
+                        Pawblem Solved offers mid-day dog walks while you're at work and kitty visits in Bellevue, Redmond and Kirkland.
+                    </h1>
+                </div>
                     <div class="yui3-g-r">
                         <div class="yui3-u-1-2">
                             <div class="grid-wrapper">
@@ -64,18 +110,15 @@
                                 </div>
 
                                 <label>Number of Dogs</label>
-						       <!--
-                                <div class="input-message" style="display:none">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
-						         -->
-                                
-                                <select name="dogcount">
+						       
+						       <select name="dogcount">
 							        <option value="0">0</option>
 							        <option value="1">1</option>
 							        <option value="2">2</option>
 							        <option value="3">3</option>
 							        <option value="4+">4+</option>
 						        </select>
-								
+
 						        <label>Number of Cats or Other</label>
 						        <select name="catcount">
 							        <option value="0">0</option>
@@ -104,7 +147,12 @@
 				        <input type="submit" class="button" value="Send"/>  
                     </center>
 				</form>
-						
+             -->
+                
+          <!--
+                                <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
+						        -->                            
+                         
 						<!--
 						<div>
 							<br/>
@@ -126,21 +174,42 @@
 									~ Danielle & the Pawblem Solved Team
 								</p>
 						</div>
-						
+               
+
+                <center>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <p class="red">
+                        Thank you so much for your interest in Pawblem Solved!
+                    </p>
+                    <p class="red">
+                        At this time, we are not able to accept new clients, but please do check back in the future.
+                    </p>
+                    <p class="red">
+                        For current clients, you can email your inquiries to: 
+                    </p>
+                    <p>
+                        <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>
+                    </p>
+                    <br/>
+                    <br/>
+                </center>
 		                <div id="vacationresponse">
 							<br/>
 							<strong>
 								<p>
-									Pawblem Solved will be out of the office from Wednesday, March 2nd to 
-									Monday, March 7th, 2016.
+									Pawblem Solved will be out of the office from Thursday, October 13th to 
+									Tuesday, October 18th, 2016.
 								</p>
 								<p>
-									We will reply to all inquiries after Monday, March 7th, 2016.
+									We will reply to all inquiries after Tuesday, October 18th, 2016.
 								</p>
 								<p>
 									If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
 								</p>
-								<p>
+								<p> 
 									Thanks again! 
 								</p>
 								<p>
@@ -151,9 +220,9 @@
 								</p>
 							</strong>
 						</div>
-
-						-->
-						
+                
+						 
+					-->
 			</div>
         </div>
         <?PHP include('includes/footer.php'); ?>

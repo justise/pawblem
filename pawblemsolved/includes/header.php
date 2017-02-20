@@ -3,9 +3,12 @@
 -->
 <div id="header">
 	<div class="header-container">
-		<a href="index.php" class="header-logo"><h1><span>Pawblem<img src="images/temp6.png" style="padding:3px"/>Solved</span></h1><h2><span>Pet Sitting Service</span></h2></a>        
+		<a href="/index.php" class="header-logo"><h1><span>Pawblem<img src="/images/temp6.png" style="padding:3px"/>Solved</span></h1><h2><span>Pet Sitting Service</span></h2></a>        
 	</div>
-	<?PHP include('includes/nav.php'); ?>
+	<?PHP
+       $path = $_SERVER['DOCUMENT_ROOT'];
+       $path .= "/includes/nav.php";
+       include_once($path); ?>
     
     <ul class="social">
         <li class="yelp"><a href="http://www.yelp.com/biz/pawblem-solved-redmond" target="_blank" title="People love us on Yelp!"><i class="fa fa-yelp"></i></a></li>

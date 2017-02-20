@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Fundraising for Old Dog Haven - Pawblem Solved: Dog Walkers and Pet Sitters</title>
+    <title>Redmond Dog walking and Pet Sitting - Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
-    <meta name="Description" content="Pawblem Solved Fundraising information for Old Dog Haven.">
-    <meta property="og:title" content="Fundraising for Old Dog Haven - Pawblem Solved"/>
-    <meta name="twitter:title" content="Fundraising for Old Dog Haven - Pawblem Solved"/>
-    <meta property="og:description" content="Pawblem Solved Fundraising information for Old Dog Haven."/>
-    <meta name="twitter:description" content="Pawblem Solved Fundraising information for Old Dog Haven."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/fundraiser.php"/>
+    <meta name="Description" content="">
+    <meta property="og:title" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:description" content=""/>
+    <meta property="og:url" content="http://www.pawblemsolved.com/dog-walking-pet-sitting/redmond.php"/>
 
 </head>
 <body>

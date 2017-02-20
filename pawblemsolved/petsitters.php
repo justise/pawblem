@@ -201,38 +201,6 @@
                 <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
-						    <img src="images/tiles/human10.jpg" title="Stevie McEldowney" class="tile"/>
-                        
-                        </div>
-                    </div>
-                    <div class="yui3-u-2-3">
-                        <div class="grid-wrapper">
-                            <div class="names">
-							    <h2>Irmgard Tank</h2>
-							    <h4>Pet Nanny and Dog Walker</h4>
-						    </div>
-						    <p>
-							    I am Irmgard and live in Sammamish – I love animals and am really looking forward to bonding with your animal on a regular basis.
-						    </p>
-						    <p>	
-							    Due to pet allergies in my family, it is not possible for me to have my own dog or cat, but given my current availability during the day, I’m hoping to come and spend time and get outdoor exercise for both your dogs as well as myself.
-						    </p>
-						    <p>
-							    In the past, I often helped friends and family take care of their animals during their absence or vacation and enjoyed it immensely.
-						    </p>
-                            <p>
-                                Thank you for allowing me to get to know your special 4-legged family member.
-                            </p>
-                            <h5>Service Area: Redmond</h5>
-                        </div>
-                    </div>
-                </div>
-        		
-                <hr/><br/>
-
-                <div class="yui3-g-r">
-                    <div class="yui3-u-1-3">
-                        <div class="grid-wrapper">
 						    <img src="images/tiles/human11.jpg" title="Stevie McEldowney" class="tile"/>
                         
                         </div>
@@ -262,6 +230,38 @@
         		
 				<!-- RETIRED MEMBERS 
 
+                  <hr/><br/>
+
+                <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+						    <img src="images/tiles/human10.jpg" title="Stevie McEldowney" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+							    <h2>Irmgard Tank</h2>
+							    <h4>Pet Nanny and Dog Walker</h4>
+						    </div>
+						    <p>
+							    I am Irmgard and live in Sammamish – I love animals and am really looking forward to bonding with your animal on a regular basis.
+						    </p>
+						    <p>	
+							    Due to pet allergies in my family, it is not possible for me to have my own dog or cat, but given my current availability during the day, I’m hoping to come and spend time and get outdoor exercise for both your dogs as well as myself.
+						    </p>
+						    <p>
+							    In the past, I often helped friends and family take care of their animals during their absence or vacation and enjoyed it immensely.
+						    </p>
+                            <p>
+                                Thank you for allowing me to get to know your special 4-legged family member.
+                            </p>
+                            <h5>Service Area: Redmond</h5>
+                        </div>
+                    </div>
+                </div>
+        		
 				<div class="large-section">	
 					<div class="big-col">
 						<div class="names">

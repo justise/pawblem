@@ -87,7 +87,8 @@ P { font: 16px sans-serif; }
 #content .banner-wrapper { position: relative; }
 #content .banner { height:  477px; width: 100%; overflow: hidden; position: relative; background: #111; background-position: center center; background-size: cover; }
 #content .banner img { position: absolute; top: 0; left: 0; width:  100%; height: auto; min-height: 477px; }
-#content .banner-text H1 { font-family: 'Roboto', sans-serif; font-size: 64px; font-weight: 100; position: absolute; top: 200px; left: 0; right: 0; text-align: center; color: #fff;  }
+#content .banner-text H1 {
+    text-shadow: 0 0 6px #333; font-family: 'Roboto', sans-serif; font-size: 64px;  position: absolute; top: 200px; left: 0; right: 0; text-align: center; color: #fff;  }
 
 #content .statement H1 { color: #6a5b40;/*rgba(56, 36, 0, 0.82);*/ font: 36px 'Roboto', sans-serif; font-weight: 100; padding: 36px; text-align: center; }
 
@@ -130,6 +131,15 @@ P { font: 16px sans-serif; }
 .content-text UL.buttons LI IMG { position: absolute; top: 10px; left: 10px; border: 0px none; }
 .content-text UL.buttons LI IMG.alt { position: absolute; top: 10px; right: 10px; left: auto; border: 0px none; }
 
+.content-text a.button { border: 1px solid #b8b8b8; background: #ffb9ae; font-weight: bold; border-radius: 7px; padding: 11px; display: inline-block; margin: auto; }
+.content-text a.button:hover { background-color: rgba(255, 185, 174, 0.51); }
+.content-text .center { text-align: center; }
+
+.content-text .sub-banner { padding: 150px; }
+.content-text .sub-banner a.button { margin: 0 10px; background: rgba(0, 0, 0, 0.49);; border: 2px solid #fff; color: #fff; font-size:  1.5em; }
+.content-text .sub-banner a.button:hover { background-color: rgba(0, 0, 0, 0.80); }
+.content-text .sub-banner#sub-banner-index { background: url(../images/banners/dog14.jpg) no-repeat; }
+
 /* Generic Grid Styling */
 .yui3-g-r {  }
 .yui3-g-r .summary,
@@ -150,6 +160,7 @@ input { color: #202352; padding: 2px; }
 
 #emailconfirmation { display: none; }
 #vacationresponse strong { font-weight: bold; color: #333;}
+.busy-message { padding:  30px;}
 
 .slideshow { position: relative; }
 .slideshow IMG { display: none; position: absolute; top: 0; left: 0; }
@@ -162,14 +173,15 @@ input { color: #202352; padding: 2px; }
 #hiring { position: absolute; top: 4px; left:  4px; display: none; }
 
 /* Banners */
-#content .banner#banner-faq { background-image: url(../images/banners/dog9.jpg); }
+#content .banner#banner-faq { background-image: url(../images/banners/cat2.jpg); }
 #content .banner#banner-forms { background-image: url(../images/banners/dog2.jpg); }
-#content .banner#banner-home { background-image: url(../images/banners/cat2.jpg); }
+#content .banner#banner-home { background-image: url(../images/banners/dog13.jpg); }
 #content .banner#banner-jobs { background-image: url(../images/banners/dog10.jpg); }
 #content .banner#banner-team { background-image: url(../images/banners/cat3.jpg); }
 #content .banner#banner-rates { background-image: url(../images/banners/dog1.jpg); }
 #content .banner#banner-request { background-image: url(../images/banners/dog3.jpg); }
 #content .banner#banner-services { background-image: url(../images/banners/dog5.jpg); }
+#content .banner#banner-redmond { background-image: url(../images/redmond.jpg); }
 
 /* Social Icons */
 #social-icons { position: relative; top: 10px; display: none;}
@@ -179,6 +191,9 @@ input { color: #202352; padding: 2px; }
 #twitter { background-position: -21px 0; }
 #blog { background-position: -43px 0; }
 #yelp { background-position: -64px 0; }
+
+/* Bold */
+.red { color: #d42c2c!important; }
 
 @media (max-width: 980px) {
     /* Center the Header when it gets smaller */

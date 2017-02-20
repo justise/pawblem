@@ -12,7 +12,7 @@
                 <div class="banner" id="banner-jobs">
                 </div>
                 <div class="banner-text">
-                    <h1>We are Hiring!</h1>
+                    <h1>We Are Hiring!</h1>
                 </div>
             </div>
             <div class="content-text">
@@ -28,24 +28,26 @@
                     <div class="yui3-u-2-3">
                         <div class="grid-wrapper">
                             <p>
-				                Pawblem Solved is hiring for a Pet Nanny and Dog Walker. Even if you’ve never considered pet sitting in your
-                future before, take a look at all the benefits of this amazing and rewarding job.
+				                Pawblem Solved is hiring for a Part-Time Pet Nanny and Dog Walker. Even if you’ve never considered pet sitting in your
+                future before, take a look at all the benefits of this enjoyable and rewarding job.
                                 <ul>
-                                    <li>Starting rate of $11 per 30 minute walk/visit. (1 hour walks net you $22)</li>
-                                    <li>Typical work weeks range from 10-20 hours a week.</li>
+                                    <li>Starting rate of $11 per 30 minute walk/visit. (1 hour visits net you $22)</li>
+                                    <li>Typical work weeks range from 5-15 hours per week.</li>
                                     <li>Reimbursement for gas.</li>
+                                    <li>Holiday Pay.</li>
                                     <li>You set your schedule and decide which jobs to take on.</li>
                                     <li>Bonuses based on team member’s commitment, enthusiasm and hard-work.</li>
                                     <li>Working for a small company which values providing the very best care for pets and their
                                     humans above all else.</li>
                                     <li>Mentoring and training on the finer points of pet nanny services and dog walking.</li>
-                                    <li>Lots of excercise and fresh air.</li>
+                                    <li>Lots of excercise and fresh air in a fun, stress-free work enviornment, with a supportive, family-like team.</li>
                                 </ul>
 			                </p>
 		                    <h3>What We Are Looking For:</h3>
                             <p>
 			                    <ul>
-                                    <li>Someone living in the Bellevue, Redmond or Kirkland area.</li>
+                                    <li>Someone interested in part-time, mid-day (11am-3pm), weekly work, with occasional weekends, mornings & evenngs.</li>
+                                    <li>Someone living in the Bellevue, Redmond or Kirkland area. <i>At this time, we are hiring primarily to take on Redmond pets.</i></li>
                                     <li>Clean criminal record.</li>
                                     <li>A person who doesn’t mind a little rain with their day.</li>
                                     <li>A trusty vehicle for getting around.</li>
@@ -65,7 +67,7 @@
                             </p>
 			
 			                <h3>
-				                To Apply, Please Email:
+				                To Apply, Please Send:
 			                </h3>
                             <p>
 			                    <ul>
@@ -75,6 +77,9 @@
                     that sets you apart from other candidates. The more pet experience you have, the better!</li>
 			                    </ul>
 			                </p>
+                            <p class="center">
+                                <a class="button" target="_blank" href="mailto:info@pawblemsolved.com?subject=Applying for Pet Nanny Position">Apply Now</a>
+                            </p>
                         </div>
                     </div>
                     <div class="yui3-u-1-3">
