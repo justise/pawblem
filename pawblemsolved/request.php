@@ -40,6 +40,30 @@
                           
                 <div class="busy-message">
                   
+                <center>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <p class="red">
+                        Thank you so much for your interest in Pawblem Solved!
+                    </p>
+                    <p class="red">
+                        At this time, we are not able to accept new clients, but please do check back in the future.
+                    </p>
+                    <p class="red">
+                        For current clients, you can email your inquiries to: 
+                    </p>
+                    <p>
+                        <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>
+                    </p>
+                    <p>
+                       Thank you - The Pawblem Solved Team
+                    </p>
+                    <br/>
+                    <br/>
+                </center>
+                    <!--
                     Beginning mid-February, we will be accepting new mid-day walks, while mom & dad are at work, and kitty clients in the Bellevue, Redmond & Kirkland areas.
                     <br/><br/>
 
@@ -50,6 +74,7 @@
                     <br/><br/>
 
                     ~ The Pawblem Solved Team
+                    -->
                 </div>
 						       
                 <!--
@@ -176,26 +201,6 @@
 						</div>
                
 
-                <center>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <p class="red">
-                        Thank you so much for your interest in Pawblem Solved!
-                    </p>
-                    <p class="red">
-                        At this time, we are not able to accept new clients, but please do check back in the future.
-                    </p>
-                    <p class="red">
-                        For current clients, you can email your inquiries to: 
-                    </p>
-                    <p>
-                        <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>
-                    </p>
-                    <br/>
-                    <br/>
-                </center>
 		                <div id="vacationresponse">
 							<br/>
 							<strong>

@@ -198,6 +198,8 @@
         		
                 <hr/><br/>
 
+				<!-- RETIRED MEMBERS 
+                
                 <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
@@ -228,8 +230,6 @@
                     </div>
                 </div>
         		
-				<!-- RETIRED MEMBERS 
-
                   <hr/><br/>
 
                 <div class="yui3-g-r">
