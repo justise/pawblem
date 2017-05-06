@@ -40,6 +40,7 @@
                           
                 <div class="busy-message">
                   
+                    <!--
                 <center>
                     <br/>
                     <br/>
@@ -63,7 +64,6 @@
                     <br/>
                     <br/>
                 </center>
-                    <!--
                     Beginning mid-February, we will be accepting new mid-day walks, while mom & dad are at work, and kitty clients in the Bellevue, Redmond & Kirkland areas.
                     <br/><br/>
 
@@ -74,19 +74,19 @@
                     <br/><br/>
 
                     ~ The Pawblem Solved Team
-                    -->
+                  
                 </div>
-						       
-                <!--
+						  -->       
+                
                  <div id="vacationresponse">
 							<br/>
 							<strong>
 								<p>
-									Pawblem Solved will be out of the office from Saturday, December 3rd to 
-									Sunday, December 11th, 2016.
+									Pawblem Solved will be out of the office from Thursday, May 4th to 
+									Wednesday, May 10th, 2017.
 								</p>
 								<p>
-									We will reply to all inquiries after Sunday December 11th, 2016.
+									We will reply to all inquiries after Wednesday May 10th, 2017.
 								</p>
 								<p>
 									If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
@@ -102,7 +102,7 @@
 								</p>
 							</strong>
 						</div>
-                 -->    
+                 <!---->    
                  <!--
                 <form action="emailform.php" method="POST">
                                     <div class="statement">
