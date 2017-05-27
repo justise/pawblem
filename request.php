@@ -77,7 +77,7 @@
                   
                 </div>
 						  -->       
-                
+                <!--
                  <div id="vacationresponse">
 							<br/>
 							<strong>
@@ -102,8 +102,7 @@
 								</p>
 							</strong>
 						</div>
-                 <!---->    
-                 <!--
+                 -->    
                 <form action="emailform.php" method="POST">
                                     <div class="statement">
                     <h1>
@@ -172,7 +171,8 @@
 				        <input type="submit" class="button" value="Send"/>  
                     </center>
 				</form>
-             -->
+            
+                 <!-- -->
                 
           <!--
                                 <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>

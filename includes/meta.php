@@ -1,18 +1,18 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,500,700' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="/css/mainV3.css"/>
+<link rel="stylesheet" type="text/css" href="css/mainV3.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<link rel="icon" type="img/ico" href="/images/favicon.ico">
+<link rel="icon" type="img/ico" href="images/favicon.ico">
 <meta name="google-site-verification" content="Usmu6yAcz6VKluDFlY8muuovktEPRq8P1Htfh9dbLrs" />
 <meta name="keywords" content="Kirkland Pet Setting, Kirkland Cat Sitting, Kirkland Dog Sitting, Kirkland Dog Walking, Kirkland Pet Walking, Redmond Pet Setting, Redmond Cat Sitting, Redmond Dog Sitting, Redmond Dog Walking, Redmond Pet Walking, Bellevue Pet Setting, Bellevue Cat Sitting, Bellevue Dog Sitting, Bellevue Dog Walking, Bellevue Pet Walking, Pet Care, Dogs, Cats, House Sitting, Danielle Jaffy, Washington, Bellevue, Redmond, Kirkland, Seattle, 98052, 98053, 98073, 98033, 98034, 98083, 98004, 98005, 98006, 98007, 98008, 98009, 98015">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="prefetch" href="/images/banners/dog13.jpg"/>
-<link rel="prefetch" href="/images/banners/cat3.jpg"/>
-<link rel="prefetch" href="/images/banners/dog1.jpg"/>
-<link rel="prefetch" href="/images/banners/dog2.jpg"/>
-<link rel="prefetch" href="/images/banners/dog3.jpg"/>
-<link rel="prefetch" href="/images/banners/dog5.jpg"/>
-<link rel="prefetch" href="/images/banners/cat2.jpg"/>
-<link rel="prefetch" href="/images/banners/dog10.jpg"/>
+<link rel="prefetch" href="images/banners/dog13.jpg"/>
+<link rel="prefetch" href="images/banners/cat3.jpg"/>
+<link rel="prefetch" href="images/banners/dog1.jpg"/>
+<link rel="prefetch" href="images/banners/dog2.jpg"/>
+<link rel="prefetch" href="images/banners/dog3.jpg"/>
+<link rel="prefetch" href="images/banners/dog5.jpg"/>
+<link rel="prefetch" href="images/banners/cat2.jpg"/>
+<link rel="prefetch" href="images/banners/dog10.jpg"/>
 
 <meta property="fb:app_id" content="1710284432544466"/>
 <meta property="og:type" content="business.business" />

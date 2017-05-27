@@ -3,10 +3,7 @@
 -->
 <hr/>
 <div id="footer">
-	<?PHP
-       $path = $_SERVER['DOCUMENT_ROOT'];
-       $path .= "/includes/nav.php";
-       include_once($path); ?>
+	<?PHP include("nav.php"); ?>
     <ul class="contact-info">
 		<li>425-445-7247</li>
         <li><img src="images/paw.png"/></li>
