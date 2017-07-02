@@ -3,7 +3,6 @@
 -->
 <hr/>
 <div id="footer">
-	<?PHP include("nav.php"); ?>
     <ul class="contact-info">
 		<li>425-445-7247</li>
         <li><img src="images/paw.png"/></li>

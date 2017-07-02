@@ -176,11 +176,11 @@ input { color: #202352; padding: 2px; }
 #content .banner#banner-faq { background-image: url(../images/banners/cat2.jpg); }
 #content .banner#banner-forms { background-image: url(../images/banners/dog2.jpg); }
 #content .banner#banner-home { background-image: url(../images/banners/dog13.jpg); }
-#content .banner#banner-jobs { background-image: url(../images/banners/dog10.jpg); }
+#content .banner#banner-jobs { background-image: url(../images/banners/cat5.jpg); }
 #content .banner#banner-team { background-image: url(../images/banners/cat3.jpg); }
 #content .banner#banner-rates { background-image: url(../images/banners/dog1.jpg); }
-#content .banner#banner-request { background-image: url(../images/banners/dog3.jpg); }
-#content .banner#banner-services { background-image: url(../images/banners/dog5.jpg); }
+#content .banner#banner-request { background-image: url(../images/banners/dog24.jpg); }
+#content .banner#banner-services { background-image: url(../images/banners/dog25.jpg); }
 #content .banner#banner-redmond { background-image: url(../images/redmond.jpg); }
 
 /* Social Icons */
@@ -212,14 +212,14 @@ input { color: #202352; padding: 2px; }
 
 
     /* Banners */
-    #content .banner#banner-faq { background-image: url(../images/bannersMobile/dog9.jpg); }
+    #content .banner#banner-faq { background-image: url(../images/bannersMobile/dog23.jpg); }
     #content .banner#banner-forms { background-image: url(../images/bannersMobile/dog2.jpg); }
     #content .banner#banner-home { background-image: url(../images/bannersMobile/dog13.jpg); }
     #content .banner#banner-jobs { background-image: url(../images/bannersMobile/dog10.jpg); }
     #content .banner#banner-team { background-image: url(../images/bannersMobile/cat3.jpg); }
     #content .banner#banner-rates { background-image: url(../images/bannersMobile/dog1.jpg); }
-    #content .banner#banner-request { background-image: url(../images/bannersMobile/dog3.jpg); }
-    #content .banner#banner-services { background-image: url(../images/bannersMobile/dog5.jpg); }
+    #content .banner#banner-request { background-image: url(../images/bannersMobile/dog24.jpg); }
+    #content .banner#banner-services { background-image: url(../images/bannersMobile/dog25.jpg); }
 }
 
 /* Not exactly sure, was told it was good though. :) */
