@@ -7,11 +7,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="prefetch" href="images/banners/cat2.jpg"/>
 <link rel="prefetch" href="images/banners/cat3.jpg"/>
-<link rel="prefetch" href="images/banners/dog1.jpg"/>
+<link rel="prefetch" href="images/banners/dog25.jpg"/>
 <link rel="prefetch" href="images/banners/dog2.jpg"/>
 <link rel="prefetch" href="images/banners/dog13.jpg"/>
 <link rel="prefetch" href="images/banners/dog5.jpg"/>
-<link rel="prefetch" href="images/banners/cat2.jpg"/>
+<link rel="prefetch" href="images/banners/cat5.jpg"/>
 <link rel="prefetch" href="images/banners/dog10.jpg"/>
 <link rel="prefetch" href="images/banners/dog24.jpg"/>
 

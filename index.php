@@ -101,8 +101,8 @@
                     <a class="button" href="/services.php">Services</a>
                     <a class="button" href="http://www.yelp.com/biz/pawblem-solved-redmond">Reviews</a>
                     <a class="button" href="/team.php">Team</a>
+                    <a class="button" href="/faq.php">FAQ</a>
                     <a class="button" href="/request.php">Request</a>
-                    <a class="button" href="/jobs.php">Hiring</a>
                 </div>
 
         </div>

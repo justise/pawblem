@@ -49,10 +49,10 @@
 						    <br/>
 						
 						    <h2 id="mission">What is your mission?</h2>
-						    <p>We solve your pawblems one paw at a time and provide peace of mind for owner and pet.</p>
+						    <p>We solve your pawblems one paw at a time and provide peace of mind for pet parent and pet.</p>
 						
 						    <h2 id="professional">Why should I hire a professional pet sitter?</h2>
-						    <p>Professional pet sitters are just what the description implies – professional. While having friends, family, or neighbors care for your pets may seem like a logical choice, you will most likely run into a few areas of concern, including; trust - will they show up? What if they don’t have experience working with animals? What happens if there’s an emergency? Most professional pet sitters are licensed, bonded and insured. This ensures everyone’s protection, including; the owners, the pets, and the sitters, and means you can trust us to act responsibly when we enter your home. Professional pet sitters care for pets for a living and take their jobs very seriously.</p>
+						    <p>Professional pet sitters are just what the description implies - professional. While having friends, family, or neighbors care for your pets may seem like a logical choice, you will most likely run into a few areas of concern, including; trust - will they show up? What if they don't have experience working with animals? What happens if there's an emergency? Most professional pet sitters are licensed, bonded and insured. This ensures everyone's protection, including; the owners, the pets, and the sitters, and means you can trust us to act responsibly when we enter your home. Professional pet sitters care for pets for a living and take their jobs very seriously.</p>
 
 						    <h2 id="bonded">Is Pawblem Solved Licensed, Bonded and Insured?</h2>
 						    <p>Not only is Pawblem Solved Licensed, Bonded and Insured through the <a href="http://napps.petsitterinsurance.com/" target="_blank">Business Insurers of the Carolina</a>, but we are also a member of the <a href="http://www.petsitters.org/" target="_blank">National Association of Professional Pet Sitters</a>. This organization provides continuing education opportunities, and on-going updated resources to help better serve our clients and our four-legged friends. </p>
@@ -64,11 +64,11 @@
 						    <p>We will walk up to three dogs in the same household. Some dogs do not behave well with others, so to ensure the safety of your dog(s) and our sitters, we only provide individual, private walks. </p>
 
 						    <h2 id="who">Who will be walking my dog or taking care of my pets?</h2>
-						    <p>All of our dog walkers and sitters go through history and criminal background checks. They are also given an in-depth, thorough training process to provide you, and your pets, the best care possible. They are all covered under Pawblem Solved’s bond and insurance.</p>
+						    <p>All of our dog walkers and sitters go through history and criminal background checks. They are also given an in-depth, thorough training process to provide you, and your pets, the best care possible. They are all covered under Pawblem Solved's bond and insurance.</p>
 
 						    <p>You will always meet the owner of Pawblem Solved and your dog walker or sitter prior to starting the service during your free consultation.</p>
 
-						    <p>We do our absolute best to have one specific walker/sitter care for your pets. Occasionally, due to scheduling conflicts, illnesses or emergencies with your assigned sitter, your dog/pets may be walked, or cared for, by another walker/sitter. If this occurs, your dog walker/sitter will know your pet’s health issues, habits, and important contact information. </p>
+						    <p>We do our absolute best to have one specific walker/sitter care for your pets. Occasionally, due to scheduling conflicts, illnesses or emergencies with your assigned sitter, your dog/pets may be walked, or cared for, by another walker/sitter. If this occurs, your dog walker/sitter will know your pet's health issues, habits, and important contact information. </p>
 
 						    <h2 id="aggressive">If my pet has been / is aggressive, can I still use your service? </h2>
 						    <p>We take the safety of your pets and our sitters very seriously. If our sitter feels uncomfortable about a particular situation, we reserve the right to discontinue or pass on the service.</p>
