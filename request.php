@@ -76,15 +76,18 @@
                     ~ The Pawblem Solved Team
                   
                 </div>   
+
+						  -->  
+
                 <div id="vacationresponse">
 					<br/>
 					<strong>
 						<p>
-							Pawblem Solved will be out of the office from Wednesday, July 26th to 
-							Wednesday, August 9th, 2017.
+							Pawblem Solved will be out of the office from Thursday, September 14th to 
+							Monday, September 18th, 2017.
 						</p>
 						<p>
-							We will reply to all inquiries after Wednesday, August 9th, 2017.
+							We will reply to all inquiries after Monday, September 18th, 2017.
 						</p>
 						<p>
 							If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
@@ -100,8 +103,7 @@
 						</p>
 					</strong>
 				</div>
-                  
-						  -->  
+                  <!-- 
                 <form action="emailform.php" method="POST">
                                     <div class="statement">
                     <h1>
@@ -170,8 +172,7 @@
 				        <input type="submit" class="button" value="Send"/>  
                     </center>
 				</form>
-				
-          <!--
+
                                 <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
 						        -->                            
                          
