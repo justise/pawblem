@@ -82,7 +82,7 @@
 							    <h4>Head of IT &amp; Part-Time Pet Nanny/Dog Walker</h4>
                             </div>
 						    <p>
-							    Kris’s true love for animals began as a young child, when his parents brought him home a little 
+							    Kris's true love for animals began as a young child, when his parents brought him home a little 
                                 Lhasa Apso he named Jester. Jester moved to Kirkland from Alaska with him in April, 2000, 
                                 where they kept each other company during the transition to a new city.
 						    </p>
@@ -91,7 +91,7 @@
                                 part-time pet sitter and dog walker for Pawblem Solved. Though he is a full-time computer 
                                 programmer, he truly enjoys his time working with the pets. Jester sadly passed away a 
                                 few years ago, so it gives him the opportunity to still have animals in his life. 
-                                “There is nothing more rewarding than happy, healthy pets!”
+                                "There is nothing more rewarding than happy, healthy pets!"
 						    </p>
                         </div>
                     </div>
@@ -171,31 +171,85 @@
                 <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
-						    <img src="images/tiles/human9.jpg" title="Stevie McEldowney" class="tile"/>
+                            <img src="images/tiles/human9.jpg" title="Stevie McEldowney" class="tile"/>
                         
                         </div>
                     </div>
                     <div class="yui3-u-2-3">
                         <div class="grid-wrapper">
                             <div class="names">
-							    <h2>Stevie McEldowney</h2>
-							    <h4>Pet Nanny and Dog Walker</h4>
-						    </div>
-						    <p>
-							    My name is Stevie and I'm 30 years old. I just moved to the Redmond area about a year ago. 
-						    </p>
-						    <p>	
-							    Ever since I was a little girl I have had a strong passion for animals. I was raised on a 
-							    small farm in Oregon. We had cows, a horse, a few goats, dogs and cats...I was in heaven. 
-						    </p>
-						    <p>
-							    Now being able to work with animals is a dream come true. I look forward to work every day.     
-						    </p>
+                                <h2>Stevie McEldowney</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                My name is Stevie and I'm 30 years old. I just moved to the Redmond area about a year ago. 
+                            </p>
+                            <p> 
+                                Ever since I was a little girl I have had a strong passion for animals. I was raised on a 
+                                small farm in Oregon. We had cows, a horse, a few goats, dogs and cats...I was in heaven. 
+                            </p>
+                            <p>
+                                Now being able to work with animals is a dream come true. I look forward to work every day.     
+                            </p>
                             <h5>Service Area: Redmond</h5>
                         </div>
                     </div>
                 </div>
-        		
+                
+                <hr/><br/>
+
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human12.jpg" title="Beth Binion" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Beth Binion</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                I am a transplant from Colorado who has been living in the PNW for the past 5 years. Growing up we always had rescue animals in our home. Along with our rescue dog Slap and rescue cats Smitty, Libby, and Peanut, we regularly fostered cats and dogs for two local organizations. With the abundance of love (and fur) growing up, I can't imagine a life without animals.
+                            </p>
+                            <p> 
+                                Outside of loving four legged creatures, I work in the non-profit sector and enjoy cooking and reading. Most nights I do yoga with my cat Cozy (more like I do yoga and she tries to lay on me). I always enjoy a good pun and can't wait to make friends with your furry family member!
+                            </p>
+                            <h5>Service Area: Redmond, Kirkland</h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human15.jpg" title="Jordan Macke - Redmond Pet Nanny and Dog Walker" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Jordan Macke</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                My name is Jordan and I live in Woodinville with my husband and our two terribly sweet and
+                                wonderfully mischievous pups, Kona and Olive! Growing up, we always had cats and dogs as part of our
+                                family and now that I have a little fur-family of my own I deeply understand the precious bond and love
+                                people have for their pets. I'm passionate about animals and their well-being, and take great joy in
+                                caring for and spending time with them. I look forward to working with and caring for the furry
+                                members of your family!
+                            </p>
+                            <h5>Service Area: Redmond</h5>
+                        </div>
+                    </div>
+                </div>
+                
                 <hr/><br/>
 
 				<!-- RETIRED MEMBERS 

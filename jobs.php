@@ -81,6 +81,12 @@
                     </div>
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
+                            <a href="http://www.aarp.org/work/job-search/employer-pledge-companies/" target="_blank">
+                                <img src="images/aarp.jpg"/>
+                            </a>
+                            <br/>
+                            <br/>
+                            <br/>
                             <img src="images/tiles/dog20.jpg"/>
                             <br/>
                             <img src="images/tiles/cat6.jpg"/>

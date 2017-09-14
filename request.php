@@ -75,34 +75,33 @@
 
                     ~ The Pawblem Solved Team
                   
-                </div>
-						  -->       
-                <!--
-                 <div id="vacationresponse">
-							<br/>
-							<strong>
-								<p>
-									Pawblem Solved will be out of the office from Thursday, May 4th to 
-									Wednesday, May 10th, 2017.
-								</p>
-								<p>
-									We will reply to all inquiries after Wednesday May 10th, 2017.
-								</p>
-								<p>
-									If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
-								</p>
-								<p> 
-									Thanks again! 
-								</p>
-								<p>
-									We look forward to meeting some new furry friends!
-								</p>
-								<p>
-									~ The Pawblem Solved Team
-								</p>
-							</strong>
-						</div>
-                 -->    
+                </div>   
+                <div id="vacationresponse">
+					<br/>
+					<strong>
+						<p>
+							Pawblem Solved will be out of the office from Wednesday, July 26th to 
+							Wednesday, August 9th, 2017.
+						</p>
+						<p>
+							We will reply to all inquiries after Wednesday, August 9th, 2017.
+						</p>
+						<p>
+							If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
+						</p>
+						<p> 
+							Thanks again! 
+						</p>
+						<p>
+							We look forward to meeting some new furry friends!
+						</p>
+						<p>
+							~ The Pawblem Solved Team
+						</p>
+					</strong>
+				</div>
+                  
+						  -->  
                 <form action="emailform.php" method="POST">
                                     <div class="statement">
                     <h1>
@@ -171,9 +170,7 @@
 				        <input type="submit" class="button" value="Send"/>  
                     </center>
 				</form>
-            
-                 <!-- -->
-                
+				
           <!--
                                 <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
 						        -->                            

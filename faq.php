@@ -103,9 +103,9 @@
                     </div>
                     <div class="yui3-u-1-4">
                         <div class="grid-wrapper">
-                            <img src="images/tiles/cat4.jpg"/>
+                            <img src="images/tiles/cat12.jpg"/>
                             <br/><br/><br/><br/>
-						    <img src="images/tiles/dog17.jpg"/>
+						    <img src="images/tiles/dog21.jpg"/>
                             <br/><br/><br/><br/>
 						    <img src="images/tiles/cat10.jpg"/>
                             <br/><br/><br/><br/>

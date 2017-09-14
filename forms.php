@@ -31,7 +31,7 @@
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
                             <h2>Form for Humans</h2>
-                            <a href="downloads/Pawblem Solved Client Forms.pdf" target="_blank"><img src="images/tiles/human7.jpg" alt="Danielle With Dog in Redmond"/></a>
+                            <a href="downloads/Pawblem Solved Client Forms.pdf" target="_blank"><img src="images/tiles/human14.jpg" alt="Danielle With Dog in Redmond"/></a>
                             <p>
                                 Basic contact and address form, emergency veterinary information, and requested services.
                             </p>
@@ -55,7 +55,7 @@
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
                             <h2>Form for Dogs</h2>
-                            <a href="downloads/Dog Information Sheet.pdf" target="_blank"><img src="images/tiles/dog16.jpg" alt="Dogs at Attention in Redmond"/></a>
+                            <a href="downloads/Dog Information Sheet.pdf" target="_blank"><img src="images/tiles/dog22.jpg" alt="Dog at Attention in Redmond"/></a>
                             <p>
                                 Dogs I'm sure would love to complete these forms, but don't have thumbs to hold a pen. Thank you for helping them.
                             </p>
