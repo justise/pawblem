@@ -201,32 +201,6 @@
                  <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
-                            <img src="images/tiles/human12.jpg" title="Beth Binion" class="tile"/>
-                        
-                        </div>
-                    </div>
-                    <div class="yui3-u-2-3">
-                        <div class="grid-wrapper">
-                            <div class="names">
-                                <h2>Beth Binion</h2>
-                                <h4>Pet Nanny and Dog Walker</h4>
-                            </div>
-                            <p>
-                                I am a transplant from Colorado who has been living in the PNW for the past 5 years. Growing up we always had rescue animals in our home. Along with our rescue dog Slap and rescue cats Smitty, Libby, and Peanut, we regularly fostered cats and dogs for two local organizations. With the abundance of love (and fur) growing up, I can't imagine a life without animals.
-                            </p>
-                            <p> 
-                                Outside of loving four legged creatures, I work in the non-profit sector and enjoy cooking and reading. Most nights I do yoga with my cat Cozy (more like I do yoga and she tries to lay on me). I always enjoy a good pun and can't wait to make friends with your furry family member!
-                            </p>
-                            <h5>Service Area: Redmond, Kirkland</h5>
-                        </div>
-                    </div>
-                </div>
-                
-                <hr/><br/>
-
-                 <div class="yui3-g-r">
-                    <div class="yui3-u-1-3">
-                        <div class="grid-wrapper">
                             <img src="images/tiles/human15.jpg" title="Jordan Macke - Redmond Pet Nanny and Dog Walker" class="tile"/>
                         
                         </div>
@@ -252,8 +226,63 @@
                 
                 <hr/><br/>
 
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human16.jpg" title="Simone Tunc" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Simone Tunc</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                I have had dogs and cats growing up.  I volunteer at an animal shelter where I get to walk dogs waiting for new homes.  Life is so fullfilling with a furry friend.  They allow me to live in the moment.  Having a job where I can be with animals is a nice change from the corporate world.  It doesn't even feel like a job. 
+                            </p>
+                            <p> 
+                                I know how stressful it can be to leave your animals home alone for long periods of time.  I am excited to help animal owners relieve this stress by hanging out with their fury friend.  
+                            </p>
+                            <p>
+                                When I'm not hanging with animals, I enjoy spending time with my family, playing music with my son, and practicing Brazilian Jiu-Jitsu.
+                            </p>
+                            <h5>Service Area: Redmond, Kirkland</h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
 				<!-- RETIRED MEMBERS 
                 
+
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human12.jpg" title="Beth Binion" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Beth Binion</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                I am a transplant from Colorado who has been living in the PNW for the past 5 years. Growing up we always had rescue animals in our home. Along with our rescue dog Slap and rescue cats Smitty, Libby, and Peanut, we regularly fostered cats and dogs for two local organizations. With the abundance of love (and fur) growing up, I can't imagine a life without animals.
+                            </p>
+                            <p> 
+                                Outside of loving four legged creatures, I work in the non-profit sector and enjoy cooking and reading. Most nights I do yoga with my cat Cozy (more like I do yoga and she tries to lay on me). I always enjoy a good pun and can't wait to make friends with your furry family member!
+                            </p>
+                            <h5>Service Area: Redmond, Kirkland</h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
                 <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
