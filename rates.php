@@ -53,7 +53,7 @@
                     <div class="yui3-u-1-2">
                         <div class="grid-wrapper">
                             <h2>In Home Visit</h2>
-                            <img src="images/tiles/cat9.jpg"/>
+                            <img src="images/tiles/cat14.jpg"/>
                             <p>
                             <ul>
 							    <li>$25 per 30 minute visit</li>
@@ -70,7 +70,7 @@
                 <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
-                            <img src="images/tiles/dog6.jpg"/>
+                            <img src="images/tiles/cat13.jpg"/>
                         </div>
                     </div>
                     <div class="yui3-u-2-3">
