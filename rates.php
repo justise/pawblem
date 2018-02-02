@@ -94,7 +94,7 @@
                 <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
-                            <img src="images/tiles/cat5.jpg"/>
+                            <img src="images/tiles/dog23.jpg"/>
                         </div>
                     </div>
                     <div class="yui3-u-2-3">
@@ -120,7 +120,7 @@
                 <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
-                            <img src="images/tiles/dog3.jpg"/>
+                            <img src="images/tiles/cat15.jpg"/>
                         </div>
                     </div>
                     <div class="yui3-u-2-3">

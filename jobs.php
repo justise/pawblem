@@ -89,7 +89,7 @@
                             <br/>
                             <img src="images/tiles/dog20.jpg"/>
                             <br/>
-                            <img src="images/tiles/cat6.jpg"/>
+                            <img src="images/tiles/cat16.jpg"/>
                         </div>
                     </div>
                 </div>
