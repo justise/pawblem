@@ -39,7 +39,7 @@
                                 </ul>
                             </p>
                             <p>
-                                <em>
+                                <em class="consistent-size">
                                     Please keep in mind that we never overload our schedules, so it's important that the individual understands this is a part-time position.
                                 </em>
                             </p>
