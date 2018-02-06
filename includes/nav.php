@@ -9,8 +9,8 @@
 		<li><a href="forms.php">Forms</a></li>
 		<li><a href="petsitters.php">Team</a></li>
 		<li><a href="faq.php">FAQs</a></li>
-		<li><a href="request.php" class="red">Request Service</a></li>
-		<li><a href="jobs.php">Jobs</a></li>
+		<li><a href="request.php">Request Service</a></li>
+		<li><a href="jobs.php" class="red">We're Hiring!</a></li>
         <!--
         <li><a href="fundraiser.php" style="color: #c42727">Fundraising for ODH</a></li>
         

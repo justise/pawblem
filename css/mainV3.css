@@ -50,7 +50,7 @@ P { font: 16px sans-serif; }
 #header .social LI.yelp { padding:  0 0 0 45px; }
 
 /* Menu */
-.nav-container {}
+.nav-container { display:block; overflow:auto; }
 .nav { }
 .nav > li { display: inline-block; border-right: 1px solid #fff; float: left; line-height: 38px; }
 .nav > li:last-child { border: 0px none; }
@@ -109,6 +109,7 @@ P { font: 16px sans-serif; }
 .content-text UL.addons { margin: 0 0 0 20px; }
 .content-text UL.addons LI {list-style: disc; margin: 0; padding-left: 0; }
 .content-text EM { font-style: italic; font-size: .8em; }
+.content-text EM.consistent-size { font-size: 1em; }
 .content-text .col { width: 450px; float: left;  }
 .content-text .homepagecol1 { width: 350px; }
 .content-text .homepagecol2 { width: 550px; }

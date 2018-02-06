@@ -28,7 +28,7 @@
                     <div class="yui3-u-2-3">
                         <div class="grid-wrapper">
                             <p>
-                                We are always searching for new team members, who love animals and the great outdoors! 
+                                We are searching for fun-loving, upbeat individuals, who are interested in being part of a small, family-like team, who, of course, love animals and the great outdoors!
                             </p>
                             <p>
                                 Here are just a few examples of how dog walking &amp; pet sitting could fit into your life - 
@@ -39,13 +39,15 @@
                                 </ul>
                             </p>
                             <p>
-                                Please keep in mind that we never overload our schedules, so it's important that the individual understands this is a part-time position.
+                                <em class="consistent-size">
+                                    Please keep in mind that we never overload our schedules, so it's important that the individual understands this is a part-time position.
+                                </em>
                             </p>
                             <p>
                                 Our schedules vary each day, but generally occur - 
                                 <ul>
                                     <li>Monday - Friday </li>
-                                    <li>11am - 2pm </li>
+                                    <li>11am - 3pm </li>
                                     <li>With occasional kitty visits on the weekends</li>
                                     <li>Typical work-weeks range from 5-15 hours; you set your schedule &amp; decide which jobs to take on</li>
                                 </ul>
@@ -59,10 +61,13 @@
                                     <li>Bonuses based on team member's commitment, enthusiasm, and hard work</li>
                                     <li>Holiday pay</li>
                                     <li>Monthly coffee dates to catch-up with the team</li>
+                                    <li>Work with a business owner who truly appreciates the team, and understands the importance of respect &amp; making sure everyone continues to be happy.</li>
                                 </ul>
                             </p>
                             <p>
-                                Compensation is approximately $150 - $300 per week
+                                We prefer our team members live in one of our service areas; Redmond, Bellevue, Kirkland.
+                            <p>
+                                Compensation is approximately $175 - $300 per week + tips
                             </p>
             
                             
