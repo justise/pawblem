@@ -146,7 +146,7 @@
                         <div class="grid-wrapper">
                             <div class="names">
 							    <h2>Lisa Roy</h2>
-							    <h4>Pet Nanny and Dog Walker</h4>
+							    <h4>PS Relations Committee Director (RCD) &amp; Pet Nanny/Dog Walker</h4>
 						    </div>
 						    <p>
 							    I have been around animals my whole life. I grew up on a farm in Connecticut, 

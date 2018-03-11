@@ -27,7 +27,7 @@ https://github.com/yui/pure/blob/master/LICENSE.md
 HTML,BODY {
 	background: #fefefe;
     height: 100%;
-    font: 300 16px 'Roboto', sans-serif;
+    font: 300 20 px 'Roboto', sans-serif;
 	color: #fff;
 	text-align: center;
 }
@@ -36,7 +36,7 @@ A { text-decoration: none; color: #595959; }
 A:visited { color: #121212; }
 
 HR { color: #e8e8e8; background-color: #e8e8e8; border-color: #e8e8e8; border: none; height: 1px; }
-P { font: 16px sans-serif; }
+P { font-family: sans-serif; }
 
 #container { color: #6a5b40; /*rgba(56, 36, 0, 0.75);*/ margin: 0 auto; text-align: left; background: #fefefe; }
 
@@ -47,7 +47,7 @@ P { font: 16px sans-serif; }
 #header .header-logo H2 { display: none; }
 #header .social {}
 #header .social LI { line-height:  38px; padding: 0 2px; }
-#header .social LI.yelp { padding:  0 0 0 45px; }
+/*#header .social LI.yelp { padding:  0 0 0 45px; }*/
 
 /* Menu */
 .nav-container { display:block; overflow:auto; }
@@ -86,12 +86,21 @@ P { font: 16px sans-serif; }
 
 #content .banner-wrapper { position: relative; }
 #content .banner { height:  477px; width: 100%; overflow: hidden; position: relative; background: #111; background-position: center center; background-size: cover; }
-#content .banner img { position: absolute; top: 0; left: 0; width:  100%; height: auto; min-height: 477px; }
+/*#content .banner img { position: absolute; top: 0; left: 0; width:  100%; height: auto; min-height: 477px; }*/
 #content .banner-text H1 {
     text-shadow: 0 0 6px #333; font-family: 'Roboto', sans-serif; font-size: 64px;  position: absolute; top: 200px; left: 0; right: 0; text-align: center; color: #fff;  }
+#content .banner-footer { /*filter: grayscale(100%);*/ text-align: center; position: absolute; bottom: 0; width:100%; font-family: 'Roboto', sans-serif; }
+#content .banner-footer ul { display: inline-block; margin: 0 auto; }
+#content .banner-footer ul li { display: inline-block;  padding: 0 50px; color: #fff; font-size: 55px;  opacity: 1; }
+#content .banner-footer ul li img { width:50px; height: 50px; display: block; }
+#content .banner-footer button,
+#content .banner-footer .button { display:inline-block; background:white;  margin:0 0 40px 0; padding: 9px 21px; border-radius: 31px; font-size: 20px; font-weight: bold; border: 0; opacity: .8; cursor: pointer; }
 
-#content .statement H1 { color: #6a5b40;/*rgba(56, 36, 0, 0.82);*/ font: 36px 'Roboto', sans-serif; font-weight: 100; padding: 36px; text-align: center; }
 
+#content .statement { padding: 36px; text-align: center; }
+#content .statement H1 { color: #6a5b40;/*rgba(56, 36, 0, 0.82);*/ font: 36px 'Roboto', sans-serif; font-weight: 100; }
+#content .statement H3 { min-height: 2.5em; padding: 0 0 10px 0; }
+#content .statement img.accolade { height: 30px; }
 
 .content-text H2 { color: #e6a83d; font: 300 24px 'Roboto', sans-serif; padding: 0 17px 12px 0; }
 .content-text H4 { font: 300 16px 'Roboto', sans-serif; padding: 6px 17px 5px 0;  }
@@ -101,9 +110,9 @@ P { font: 16px sans-serif; }
 .content-text .strong { color: #d42c2c; }
 .content-text STRONG { color: #d42c2c; }
 .content-text UL { margin: 0 0 5px 0; padding: 0 10px; }
-.content-text LI { padding: 1px 7px 2px 0; list-style-type: disc; margin: 0 0 0 29px;  }
-.content-text LI UL { margin: 0; }
-.content-text LI LI { list-style-type: circle; padding: 4px 0 0 0; }
+.content-text UL LI { padding: 1px 7px 2px 0; list-style-type: disc; margin: 0 0 0 29px;  }
+.content-text UL LI UL { margin: 0; }
+.content-text UL LI UL LI { list-style-type: circle; padding: 4px 0 0 0; }
 .content-text UL LI.sub { list-style-type: none;}
 .content-text UL LI.sub LI { list-style-type: circle; }
 .content-text UL.addons { margin: 0 0 0 20px; }
@@ -168,7 +177,7 @@ input { color: #202352; padding: 2px; }
 .slideshow .show { display: block; }
 
 #vote { position: absolute; top: 20px; z-index: 500; }
-.hide { display: none; }
+.hide { display: none!important; }
 .show { display: block; }
 
 #hiring { position: absolute; top: 4px; left:  4px; display: none; }
@@ -206,9 +215,9 @@ input { color: #202352; padding: 2px; }
         float:  none;
     }
 
-    #header .social LI.yelp { 
+    /*#header .social LI.yelp { 
         padding:  0;
-    }
+    }*/
 
 
     /* Banners */
