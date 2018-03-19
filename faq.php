@@ -25,9 +25,47 @@
             <br/><br/>
 
             <div class="content-text">
+                <div class="yui3-g-r">                  
+                    <div class="yui3-u-2-3">
+                        <div class="summary">
+
+                            <h2>Pawblem Solved</h2>
+                            <p>
+                                Serving: <br/>
+                                Redmond (English Hill, Education Hill, Trilogy, Redmond Ridge, Downtown)<br/>
+                                Kirkland (Juanita, Moss Bay, Rose Hill, Totem Lake, Downtown)<br/>
+                                Bellevue (Medina, Clyde Hill, Yarrow Point, Hunts Point, Houghton, Lake Hills, Crossroads, Enatai, Maydenbauer Bay, Downtown)<br/>
+
+                            </p>
+                            <p>
+                                (425) 445-7247<br/>
+                                info@pawblemsolved.com
+                            </p>
+
+                            <p>
+                                Office Hours: Monday - Friday, 9-6 <br/>
+                                Working Hours: Monday - Sunday, 9-6 
+                             </p>
+                             <p>
+                                Due to the nature of our work, we aren't able to answer the phone, so please leave a message. If you call on a Friday, we will return your call the following business day. 
+                                <br/><br/>Email is preferred for inquiries.
+                            </p> 
+       
+                        </div>
+                    </div>
+                    <div class="yui3-u-1-3">
+                        <div class="summary">
+                            <h2>&nbsp;</h2>
+                            <img src="images/tiles/dog2.jpg" alt="Dog Walk in Redmond"/>
+                            
+                        </div>
+                    </div>  
+                </div>
+                <hr/>
                 <div class="yui3-g-r">
                     <div class="yui3-u-3-4">
                         <div class="grid-wrapper">
+                            <h2>Frequently Asked Questions</h2>
                             <p>
                                <ul>
 	                                <li><a href="#mission">What is your mission?</a></li>
@@ -43,13 +81,13 @@
 	                                <li><a href="#payment">What type of payment do you accept?</a></li>
 	                                <li><a href="#servicehours">What are your service hours?</a></li>
                                    <li><a href="#cancellationpolicy">What is your cancellation policy?</a></li>
-                                   <li><a href="#servicearea">How do I know if you service my area?</a></li>
+                                   <li><a href="#servicearea">What areas do you service?</a></li>
                                 </ul>
 						    </p>
 						    <br/>
 						
 						    <h2 id="mission">What is your mission?</h2>
-						    <p>We solve your pawblems one paw at a time and provide peace of mind for pet parent and pet.</p>
+						    <p>Our pet nannies are here to solve your pawblems and provide peace of mind for pet parent and pet.</p>
 						
 						    <h2 id="professional">Why should I hire a professional pet sitter?</h2>
 						    <p>Professional pet sitters are just what the description implies - professional. While having friends, family, or neighbors care for your pets may seem like a logical choice, you will most likely run into a few areas of concern, including; trust - will they show up? What if they don't have experience working with animals? What happens if there's an emergency? Most professional pet sitters are licensed, bonded and insured. This ensures everyone's protection, including; the owners, the pets, and the sitters, and means you can trust us to act responsibly when we enter your home. Professional pet sitters care for pets for a living and take their jobs very seriously.</p>
@@ -104,8 +142,6 @@
                     <div class="yui3-u-1-4">
                         <div class="grid-wrapper">
                             <img src="images/tiles/cat12.jpg"/>
-                            <br/><br/><br/><br/>
-						    <img src="images/tiles/dog21.jpg"/>
                             <br/><br/><br/><br/>
 						    <img src="images/tiles/cat10.jpg"/>
                             <br/><br/><br/><br/>

@@ -2,6 +2,14 @@
 $(function(){ 
 	// Done using JS because its a server side component
 	setSelectedTab();
+
+
+	var slides = $("#review-slides");
+	if(slides) {
+		slides.slick({
+			autoplay:true
+		});
+	}
 });
 
 function setSelectedTab() {

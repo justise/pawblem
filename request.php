@@ -37,10 +37,10 @@
 					</h1>
                     <br/><br/>
 				</div>
-                          
+                         
+                    <!-- 
                 <div class="busy-message">
                   
-                    <!--
                 <center>
                     <br/>
                     <br/>

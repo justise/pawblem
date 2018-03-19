@@ -1,6 +1,8 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,500,700' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="css/mainV3.css?cacheBust=1"/>
+<link rel="stylesheet" type="text/css" href="css/mainV3.css?cacheBust=5"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
 <link rel="icon" type="img/ico" href="images/favicon.ico">
 <meta name="google-site-verification" content="Usmu6yAcz6VKluDFlY8muuovktEPRq8P1Htfh9dbLrs" />
 <meta name="keywords" content="Kirkland Pet Setting, Kirkland Cat Sitting, Kirkland Dog Sitting, Kirkland Dog Walking, Kirkland Pet Walking, Redmond Pet Setting, Redmond Cat Sitting, Redmond Dog Sitting, Redmond Dog Walking, Redmond Pet Walking, Bellevue Pet Setting, Bellevue Cat Sitting, Bellevue Dog Sitting, Bellevue Dog Walking, Bellevue Pet Walking, Pet Care, Dogs, Cats, House Sitting, Danielle Jaffy, Washington, Bellevue, Redmond, Kirkland, Seattle, 98052, 98053, 98073, 98033, 98034, 98083, 98004, 98005, 98006, 98007, 98008, 98009, 98015">
@@ -38,14 +40,3 @@
 <meta name="twitter:site" content="@PawblemSolved">
 <meta name="twitter:creator" content="@PawblemSolved">
 <meta name="twitter:image:src" content="http://www.pawblemsolved.com/images/site-logo.jpg">
-<!-- Google Analytics-->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-10045158-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

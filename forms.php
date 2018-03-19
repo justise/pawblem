@@ -47,6 +47,7 @@
                             <p>
                                 Cats cannot be bothered to fill out any forms, so you'll probably have to do it for them.
                             </p>
+                            <br/>
 						    <p>
 							    <a href="downloads/Cat Information Sheet.pdf" target="_blank" title="Download PDF">Cat Information Sheet &gt;</a>
 						    </p>
