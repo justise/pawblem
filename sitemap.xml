@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.pawblemsolved.com/</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/index.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/services.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/rates.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/forms.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/petsitters.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/faq.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/request.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/downloads/Pawblem%20Solved%20Client%20Forms.pdf</loc>
+  <lastmod>2016-04-21T05:26:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/downloads/Cat%20Information%20Sheet.pdf</loc>
+  <lastmod>2016-04-21T05:26:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/downloads/Dog%20Information%20Sheet.pdf</loc>
+  <lastmod>2016-04-21T05:26:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.pawblemsolved.com/jobs.php</loc>
+  <lastmod>2018-03-31T22:04:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

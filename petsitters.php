@@ -8,7 +8,7 @@
     <meta name="twitter:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
     <meta property="og:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
     <meta name="twitter:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/petsitters.php"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/petsitters.php"/>
 </head>
 <body>
     <div id="container">
@@ -37,7 +37,7 @@
                         <div class="grid-wrapper">
                         <div class="names">
 							<h2>Danielle Jaffy</h2>
-							<h4>Founder &amp; Full-Time Pet Nanny/Dog Walker</h4>
+							<h4>Founder &amp; Full-Time Pet Nanny and Dog Walker</h4>
 						</div>
 						<p>
 							My name is Danielle and I am the founder of Pawblem Solved.
@@ -79,7 +79,7 @@
                         <div class="grid-wrapper">
                             <div class="names">
 							    <h2>Kris Gray</h2>
-							    <h4>Head of IT &amp; Part-Time Pet Nanny/Dog Walker</h4>
+							    <h4>Head of IT &amp; Part-Time Pet Nanny and Dog Walker</h4>
                             </div>
 						    <p>
 							    Kris's true love for animals began as a young child, when his parents brought him home a little 
@@ -146,7 +146,7 @@
                         <div class="grid-wrapper">
                             <div class="names">
 							    <h2>Lisa Roy</h2>
-							    <h4>Pet Nanny and Dog Walker</h4>
+							    <h4>PS Relations Committee Director (RCD) &amp; Pet Nanny and Dog Walker</h4>
 						    </div>
 						    <p>
 							    I have been around animals my whole life. I grew up on a farm in Connecticut, 
@@ -249,6 +249,65 @@
                                 When I'm not hanging with animals, I enjoy spending time with my family, playing music with my son, and practicing Brazilian Jiu-Jitsu.
                             </p>
                             <h5>Service Area: Redmond, Kirkland</h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human17.jpg" title="Katy Carter" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Katy Carter</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                I am drawn to animals and they teach me something new every day! 
+                            </p>
+                            <p> 
+                                I live on property that has been the forever home for many horses and dogs.  As for so many people, my relationships with the animals has made me a better human being.
+                            </p>
+                            <p>
+                                I've spent the last 40 years in the health care field and now I'm looking forward to loving and caring for my new furry acquaintances!
+                            </p>
+                            <h5>Service Area: Redmond</h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human18.jpg" title="Lori Reiter" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Lori Reiter</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                Hi, I'm Lori.  I have lived in Bellevue for 35 years, am recently retired and a life long pet owner. In the past, I have volunteered with the Human Society in Bellevue. I believe every animal deserves a safe and happy home.
+                            </p>
+                            <p> 
+                                I have always treated my pets like they were my family. I'm guessing you do too.
+I would love to come and walk your dog or visit with your cat. My promise to you is that I will give your pet the same love and attention you do.
+                            </p>
+                            <p>
+                                I look forward to the opportunity to meet you and your pet.
+                            </p>
+                            <h5>Service Area: Redmond, Bellevue, Kirkland</h5>
                         </div>
                     </div>
                 </div>
@@ -498,7 +557,6 @@
 				
 				</div>
 				-->
-				<hr/>
 				<center>
                     <br/>
 					<p>

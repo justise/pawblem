@@ -8,7 +8,7 @@
     <meta name="twitter:title" content="Fundraising for Old Dog Haven - Pawblem Solved"/>
     <meta property="og:description" content="Pawblem Solved Fundraising information for Old Dog Haven."/>
     <meta name="twitter:description" content="Pawblem Solved Fundraising information for Old Dog Haven."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/fundraiser.php"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/fundraiser.php"/>
 
 </head>
 <body>

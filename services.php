@@ -8,7 +8,7 @@
    <meta name="twitter:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
    <meta property="og:description" content="Services provided by Pawblem Solved in the Redmond, Kirkland and Bellevue areas."/>
    <meta name="twitter:description" content="Services provided by Pawblem Solved in the Redmond, Kirkland and Bellevue areas."/>
-   <meta property="og:url" content="http://www.pawblemsolved.com/services.php"/>
+   <meta property="og:url" content="https://www.pawblemsolved.com/services.php"/>
 </head>
 <body>
     <div id="container">
@@ -24,7 +24,7 @@
             <div class="content-text">
                        
                 <div class="statement">
-                    <h1>Offering the best in on-leash walks right in your neighborhood, and loving in home pet care.</h1>
+                    <h1>Offering the best in on-leash walks right in your neighborhood, and loving in-home pet care.</h1>
                 </div>
                 <hr/>
                 <br/>

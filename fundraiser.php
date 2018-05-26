@@ -8,7 +8,7 @@
     <meta name="twitter:title" content=""/>
     <meta property="og:description" content=""/>
     <meta name="twitter:description" content=""/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/dog-walking-pet-sitting/redmond.php"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/dog-walking-pet-sitting/redmond.php"/>
 
 </head>
 <body>

@@ -8,7 +8,7 @@
     <meta name="twitter:title" content="Client Information Forms - Pawblem Solved"/>
     <meta property="og:description" content="Client Information Forms to fill out for Pawblem Solved the Premier Pet Sitting and Dog Walking service in the Redmond, Kirkland and Bellevue areas."/>
     <meta name="twitter:description" content="Client Information Forms to fill out for Pawblem Solved the Premier Pet Sitting and Dog Walking service in the Redmond, Kirkland and Bellevue areas."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/forms.php"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/forms.php"/>
 </head>
 <body>
     <div id="container">
@@ -47,6 +47,7 @@
                             <p>
                                 Cats cannot be bothered to fill out any forms, so you'll probably have to do it for them.
                             </p>
+                            <br/>
 						    <p>
 							    <a href="downloads/Cat Information Sheet.pdf" target="_blank" title="Download PDF">Cat Information Sheet &gt;</a>
 						    </p>

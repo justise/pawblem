@@ -8,7 +8,7 @@
     <meta name="twitter:title" content="Dog walking and Pet Sitting Rates - Pawblem Solved"/>
     <meta property="og:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
     <meta name="twitter:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/rates.php"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/rates.php"/>
 </head>
 <body>
     <div id="container">
@@ -51,7 +51,7 @@
                     </div>
                     <div class="yui3-u-1-2">
                         <div class="grid-wrapper">
-                            <h2>In Home Visit</h2>
+                            <h2>Cat Sitting</h2>
                             <img src="images/tiles/cat14.jpg"/>
                             <p>
                             <ul>
