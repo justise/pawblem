@@ -8,7 +8,7 @@
     <meta name="twitter:title" content="Frequently Asked Questions - Pawblem Solved: Dog Walkers and Pet Sitters"/>
     <meta property="og:description" content="Frequently Asked Questions for Pawblem Solved dog walking and pet siting services."/>
     <meta name="twitter:description" content="Frequently Asked Questions for Pawblem Solved dog walking and pet siting services."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/faq.php"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/faq.php"/>
 </head>
 <body>
     <div id="container">
@@ -31,15 +31,15 @@
 
                             <h2>Pawblem Solved</h2>
                             <p>
-                                Serving: <br/>
-                                Redmond (English Hill, Education Hill, Trilogy, Redmond Ridge, Downtown)<br/>
-                                Kirkland (Juanita, Moss Bay, Rose Hill, Totem Lake, Downtown)<br/>
-                                Bellevue (Medina, Clyde Hill, Yarrow Point, Hunts Point, Houghton, Lake Hills, Crossroads, Enatai, Maydenbauer Bay, Downtown)<br/>
-
+                                <h3>Serving:</h3>
+                                Redmond <i style="display: none">(English Hill, Education Hill, Trilogy, Redmond Ridge, Downtown)</i><br/>
+                                Kirkland <i style="display: none">(Juanita, Moss Bay, Rose Hill, Totem Lake, Downtown)</i><br/>
+                                Bellevue <i style="display: none">(Medina, Clyde Hill, Yarrow Point, Hunts Point, Houghton, Lake Hills, Crossroads, Enatai, Maydenbauer Bay, Downtown)</i><br/>
                             </p>
                             <p>
+                                <h3>Contact:</h3>
                                 (425) 445-7247<br/>
-                                info@pawblemsolved.com
+                                <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>
                             </p>
 
                             <p>
@@ -47,7 +47,8 @@
                                 Working Hours: Monday - Sunday, 9-6 
                              </p>
                              <p>
-                                Due to the nature of our work, we aren't able to answer the phone, so please leave a message. If you call on a Friday, we will return your call the following business day. 
+                                <h3>Please Note:</h3>
+                                Due to the nature of our work, we aren't always able to answer the phone, so please leave a message. If you call on a Friday, we will return your call the following business day. 
                                 <br/><br/>Email is preferred for inquiries.
                             </p> 
        
@@ -56,7 +57,7 @@
                     <div class="yui3-u-1-3">
                         <div class="summary">
                             <h2>&nbsp;</h2>
-                            <img src="images/tiles/dog2.jpg" alt="Dog Walk in Redmond"/>
+                            <img src="images/tiles/cat18.jpg" alt="Cat Sitting in Redmond"/>
                             
                         </div>
                     </div>  

@@ -7,7 +7,7 @@
 <body>
     <div id="container">
         <div id="header">
-            <a href="index.html"><h1><span>Pawblem Solved - Pet Sitting Service</span></h1></a>
+            <a href="index.php"><h1><span>Pawblem Solved - Pet Sitting Service</span></h1></a>
         </div>
         <div id="content">
             <div class="content-info">
@@ -26,12 +26,12 @@
                 </ul>
             </blockquote>
             <dl id="nav">
-                <dt><a href="index.html">Home</a></dt>
-                <dt><a href="services.html">Services</a></dt>
-                <dt><a href="rates.html">Rates</a></dt>
-                <dt><a href="forms.html">Forms</a></dt>
-				<dt><a href="aboutme.html" class="selected">About</a></dt>
-                <dt><a href="request.html">Request A Date</a></dt>
+                <dt><a href="index.php">Home</a></dt>
+                <dt><a href="services.php">Services</a></dt>
+                <dt><a href="rates.php">Rates</a></dt>
+                <dt><a href="forms.php">Forms</a></dt>
+				<dt><a href="aboutme.php" class="selected">About</a></dt>
+                <dt><a href="request.php">Request A Date</a></dt>
             </dl>
             <div class="content-image">
                 <img src="images/danielle.jpg"/>

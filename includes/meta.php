@@ -1,5 +1,5 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,500,700' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="css/mainV3.css?cacheBust=5"/>
+<link rel="stylesheet" type="text/css" href="css/mainV3.css?cacheBust=10"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
@@ -31,7 +31,7 @@
 <meta property="business:contact_data:country_name" content="USA"/>
 <meta property="business:contact_data:email" content="info@pawblemsolved.com"/>
 <meta property="business:contact_data:phone_number" content="425-445-7247"/>
-<meta property="business:contact_data:website" content="http://www.pawblemsolved.com/"/>
+<meta property="business:contact_data:website" content="https://www.pawblemsolved.com/"/>
 <meta property="place:location:latitude" content="47.723269"/>
 <meta property="place:location:longitude" content="-122.109560"/>
 <meta property="fb:admins" content="1663352948"/>
@@ -39,4 +39,4 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@PawblemSolved">
 <meta name="twitter:creator" content="@PawblemSolved">
-<meta name="twitter:image:src" content="http://www.pawblemsolved.com/images/site-logo.jpg">
+<meta name="twitter:image:src" content="https://www.pawblemsolved.com/images/site-logo.jpg">

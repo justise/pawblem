@@ -4,8 +4,8 @@
 <footer>
     <div class="footer-content">
         <div class="yui3-g-r">
-            <div class="yui3-u-1-3">
-                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpawblemsolved%2F&tabs=timeline&width=300&height=400&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=1710284432544466" width="300" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+            <div class="yui3-u-1-3" id="facebook-container">
+               <!-- Inserted via global.js -->
             </div>
             <div class="yui3-u-1-3">
                 <h3>More Information</h3>
@@ -43,7 +43,7 @@
 
                 <br/>
                 <br/>
-                    <a href="/request.php" class="request-button">Ready to Request a Pet Nanny!</a> 
+                    <a href="/request.php" class="request-button">Ready to Request a Pet Nanny?</a>
             </div>
         </div>
     </div>

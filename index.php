@@ -8,7 +8,7 @@
     <meta name="twitter:title" content="Pawblem Solved: Dog Walkers and Pet Sitters"/>
     <meta property="og:description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
     <meta name="twitter:description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/"/>
 </head>
 <body>
     <div id="container">
@@ -20,10 +20,11 @@
                    
                 </div>
                 <div class="banner-text">
-                    <h1>The Pet Nanny Solution</h1>
+                    <h1>Dog Walkers &amp; Cat Sitters</h1>
+                    <h2>Bellevue &nbsp; Redmond &nbsp; Kirkland</h2>
                 </div>
                 <div class="banner-footer">
-                    <a href="/request.php" class="request-button">Request a Pet Nanny</a> 
+                    <a href="/request.php" class="request-button">Request a Pet Nanny</a>
                 </div>
             </div>
 
@@ -44,7 +45,7 @@
                             <div class="large-icon walker"></div>
                         </li>
                         <li class="yui3-u-1-3">
-                            <h3>Perfect 5 Star Rating by <br/>Our Furry Friends and Pet Parents</h3>
+                            <h3>Purrfect 5 Star Rating by <br/>Our Furry Friends and Pet Parents</h3>
                             <a href="https://www.yelp.com/biz/pawblem-solved-redmond"><img src="images/accolades/yelp5star.png"/></a>
                         </li>
                     </ol>
@@ -53,39 +54,39 @@
                 <hr/>
  
                 <section>
-                    <h2><b>Why Pawblem Solved?</b></h2>
+                    <h2><b>Why Pawblem Solved</b> for your pets?</h2>
                     <ol class="yui3-g-r">
                         <li class="yui3-u-1-3">
                             <img src="images/icons/dog.png"/><br/>
                             <b>Responsible</b>
-                            <h5>No Overloaded Schedules</h5>
+                            <h4>No Overloaded Schedules</h4>
                         </li>
                         <li class="yui3-u-1-3">
                             <img src="images/icons/cat.png"/><br/>
                             <b>Trusted</b>
-                            <h5>Licensed, Bonded, Insured</h5>
+                            <h4>Licensed, Bonded, Insured</h4>
                         </li>
                         <li class="yui3-u-1-3">
                             <img src="images/icons/bulldog.png"/><br/>
                             <b>Convienence</b>
-                            <h5>In Home Care &amp; Private Walks<br/> in Your Neighboorhood</h5>
+                            <h4>In Home Care &amp; Private Walks<br/> in Your Neighboorhood</h4>
                         </li>
                     </ol>
                     <ol class="yui3-g-r">
                         <li class="yui3-u-1-3">
                             <img src="images/icons/cat2.png"/><br/>
                             <b>Dependable</b>
-                            <h5>Same Walker &amp; Backup <br/>Coverage for Every Visit.</h5>
+                            <h4>Same Walker &amp; Backup <br/>Coverage for Every Visit.</h4>
                         </li>
                         <li class="yui3-u-1-3">
                             <img src="images/icons/dog2.png"/><br/>
                             <b>Confidence</b>
-                            <h5>Free Meet &amp; Greets to Make Sure <br/>it's a Great Fit for Pet &amp; Parent.</h5>
+                            <h4>Free Meet &amp; Greets to Make Sure <br/>it's a Great Fit for Pet &amp; Parent.</h4>
                         </li>
                         <li class="yui3-u-1-3">
                             <img src="images/icons/cat3.png"/><br/>
                             <b>Quality</b>
-                            <h5>Founded in 2010 with<br/> Consistent 5-Star Reviews</h5>
+                            <h4>Founded in 2010 with<br/> Consistent 5-Star Reviews</h4>
 
                             
                         </li>
@@ -200,8 +201,38 @@
                         </div>
                     </div>
 
-                    <div>
-
+                    <div class="yui3-g-r">
+                        <div class="yui3-u-1-2">
+                            <div class="review-block">
+                                <a href="https://www.facebook.com/pg/pawblemsolved/reviews/" target="_blank">
+                                    <img src="images/icons/facebook.png"/>
+                                </a>
+                                <a href="https://www.facebook.com/pg/pawblemsolved/reviews/" target="_blank">
+                                    16 
+                                    <img src="images/icons/facebook-paw.png"/>
+                                    <img src="images/icons/facebook-paw.png"/>
+                                    <img src="images/icons/facebook-paw.png"/>
+                                    <img src="images/icons/facebook-paw.png"/>
+                                    <img src="images/icons/facebook-paw.png"/> Reviews on Facebook
+                                </a>
+                                    
+                            </div>
+                        </div>
+                        <div class="yui3-u-1-2">
+                            <div class="review-block">
+                                <a href="https://www.yelp.com/biz/pawblem-solved-redmond" target="_blank">
+                                    <img src="images/icons/yelp.png"/>
+                                </a>
+                                <a href="https://www.yelp.com/biz/pawblem-solved-redmond" target="_blank">
+                                    16 
+                                    <img src="images/icons/yelp-paw.png"/>
+                                    <img src="images/icons/yelp-paw.png"/>
+                                    <img src="images/icons/yelp-paw.png"/>
+                                    <img src="images/icons/yelp-paw.png"/>
+                                    <img src="images/icons/yelp-paw.png"/> Reviews on Yelp
+                                </a>
+                            </div>
+                        </div>
                     </div>
                     
                         
@@ -210,56 +241,10 @@
                 <hr/>
                 <section>
                     <h2>Servicing <b>Bellevue, Redmond, Kirkland</b></h2>
-                    <div class="yui3-g-r">
-                        <div class="yui3-u-1-3">
-                            <img class="map" src="images/map_bellevue.png"/>
-                            <!-- <div style="height: 100px; overflow:hidden; padding:3px 5px">
-                                <img src="images/bellevue2.jpg"/>
-                            </div> -->
-
-                        </div>
-                        <div class="yui3-u-1-3">
-                            <img class="map" src="images/map_redmond.png"/>
-                            <!-- <div style="height: 100px; overflow:hidden; padding:3px 5px">
-                                <img src="images/redmond.jpg"/>
-                            </div> -->
-
-                        </div>
-                        <div class="yui3-u-1-3">
-                            <img class="map" src="images/map_kirkland.png"/>
-                            <!-- <div style="height: 100px; overflow:hidden; padding:3px 5px">
-                                <img src="images/kirkland2.jpg"/>
-                            </div> -->
-                        </div>
-                    </div>
+                    <a href="https://drive.google.com/open?id=1wnVC8kB15O56IOYh7gMVej28eEeJFlrD&usp=sharing" target="_blank">
+                        <img src="images/map4.png" id="map" alt="Image of all the Areas of Bellevue, Redmond and Kirkland that we service."/>
+                    </a>
                 </section>
-
-<!-- 
-                <section>
-                    <h2><b>#pawblemsolved</b> on Facebook</h2>
-                    <div class="yui3-g-r">
-                        <div class="yui3-u-1-2">
-                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpawblemsolved%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1710284432544466" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-                        </div>
-                        <div class="yui3-u-1-2">
-                            <div id="social-slides">
-                                <div>
-                                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpawblemsolved%2Fposts%2F1787307791292565&width=350" width="350" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-</div><div>
-                                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpawblemsolved%2Fposts%2F1790565534300124&width=350&show_text=true&appId=1710284432544466&height=524" width="350" height="524" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-</div><div>
-
-                                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpawblemsolved%2Fposts%2F1780980775258600&width=350&show_text=true&appId=1710284432544466&height=518" width="350" height="518" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-
-
-                </section>
-
-                <hr/> -->
 
 
             </div>

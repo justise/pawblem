@@ -8,7 +8,7 @@
     <meta name="twitter:title" content="Request Pet Sitting Services - Pawblem Solved"/>
     <meta property="og:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
     <meta name="twitter:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
-    <meta property="og:url" content="http://www.pawblemsolved.com/request.php"/>
+    <meta property="og:url" content="https://www.pawblemsolved.com/request.php"/>
 
     <link href="css/smoothness/jquery-ui-1.7.2.custom.css" rel="stylesheet"/>
     <style>
@@ -75,16 +75,17 @@
 
                     ~ The Pawblem Solved Team
                   
-                </div>   
+                </div>  
+						  
                 <div id="vacationresponse">
 					<br/>
 					<strong>
 						<p>
-							Pawblem Solved will be out of the office from Wednesday, July 26th to 
-							Wednesday, August 9th, 2017.
+							Pawblem Solved will be out of the office from Sunday, April 22nd to 
+							Sunday, April 29th, 2018.
 						</p>
 						<p>
-							We will reply to all inquiries after Wednesday, August 9th, 2017.
+							We will reply to all inquiries after Sunday, April 29th, 2018.
 						</p>
 						<p>
 							If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
@@ -99,13 +100,12 @@
 							~ The Pawblem Solved Team
 						</p>
 					</strong>
-				</div>
+				</div>-->   
                   
-						  -->  
                 <form action="emailform.php" method="POST">
                                     <div class="statement">
                     <h1>
-                        Pawblem Solved offers mid-day dog walks while you're at work and kitty visits in Bellevue, Redmond and Kirkland.
+                        Pawblem Solved offers mid-day dog walks while you're at work and cat visits in Bellevue, Redmond and Kirkland.
                     </h1>
                 </div>
                     <div class="yui3-g-r">
@@ -230,7 +230,10 @@
         <?PHP include('includes/footer.php'); ?>
     </div>
     <?PHP include('includes/scripts.php'); ?>
-    <script src="script/jquery-ui-1.7.2.custom.min.js"></script>
+	<script
+	  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+	  integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+	  crossorigin="anonymous"></script>
     <script src="script/requestdate.js"></script>
 
 </body>
