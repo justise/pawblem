@@ -43,7 +43,7 @@
                             <img src="images/tiles/dog15.jpg"/>
                             <p>
                             <ul>
-							    <li>$25 per 30 minute walk</li>
+							    <li>$33 per 30 minute walk</li>
 							    <li>$5 for each additional dog</li>
 						    </ul>
                             </p>
@@ -55,7 +55,7 @@
                             <img src="images/tiles/cat14.jpg"/>
                             <p>
                             <ul>
-							    <li>$25 per 30 minute visit for 2 cats</li>
+							    <li>$33 per 30 minute visit for 2 cats</li>
 							    <li>$5 for each additional cat</li>
 						    </ul>
                             </p>
