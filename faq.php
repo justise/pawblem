@@ -34,7 +34,6 @@
                                 <h3>Serving:</h3>
                                 Redmond <i style="display: none">(English Hill, Education Hill, Trilogy, Redmond Ridge, Downtown)</i><br/>
                                 Kirkland <i style="display: none">(Juanita, Moss Bay, Rose Hill, Totem Lake, Downtown)</i><br/>
-                                Bellevue <i style="display: none">(Medina, Clyde Hill, Yarrow Point, Hunts Point, Houghton, Lake Hills, Crossroads, Enatai, Maydenbauer Bay, Downtown)</i><br/>
                             </p>
                             <p>
                                 <h3>Contact:</h3>
@@ -136,8 +135,7 @@
                             <p>Less than 24 hour notice will result in a charge equal to 50% of the reserved service amount.</p>
 
                             <h2 id="servicearea">What areas do you service?</h2>
-                            <p>We cover all areas of Redmond, Kirkland and Bellevue.</p>
-                            <!--<p>By focusing on these areas, we're able to ensure each areas pets receive the maximum amount of our time and attention vs having to drive great distances between appointments.</p>-->
+                            <p>We cover all areas of Redmond and North Kirkland.</p>
                         </div>
                     </div>
                     <div class="yui3-u-1-4">

@@ -3,11 +3,11 @@
 <head>
    <title>Services - Pawblem Solved: Dog Walkers and Pet Sitters</title>
    <?PHP include('includes/meta.php'); ?>
-   <meta name="Description" content="Services provided by Pawblem Solved in the Redmond, Kirkland and Bellevue areas.">
+   <meta name="Description" content="Services provided by Pawblem Solved in the Redmond and North Kirkland areas.">
    <meta property="og:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
    <meta name="twitter:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
-   <meta property="og:description" content="Services provided by Pawblem Solved in the Redmond, Kirkland and Bellevue areas."/>
-   <meta name="twitter:description" content="Services provided by Pawblem Solved in the Redmond, Kirkland and Bellevue areas."/>
+   <meta property="og:description" content="Services provided by Pawblem Solved in the Redmond and North Kirkland areas."/>
+   <meta name="twitter:description" content="Services provided by Pawblem Solved in the Redmond and North Kirkland areas."/>
    <meta property="og:url" content="https://www.pawblemsolved.com/services.php"/>
 </head>
 <body>

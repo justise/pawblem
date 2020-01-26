@@ -3,11 +3,11 @@
 <head>
     <title>Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
-    <meta name="Description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks.">
+    <meta name="Description" content="Premier Pet Sitting and Dog Walking in the Redmond and North Kirkland areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks.">
     <meta property="og:title" content="Pawblem Solved: Dog Walkers and Pet Sitters"/>
     <meta name="twitter:title" content="Pawblem Solved: Dog Walkers and Pet Sitters"/>
-    <meta property="og:description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
-    <meta name="twitter:description" content="Premier Pet Sitting and Dog Walking in the Redmond, Kirkland and Bellevue areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
+    <meta property="og:description" content="Premier Pet Sitting and Dog Walking in the Redmond and North Kirkland areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
+    <meta name="twitter:description" content="Premier Pet Sitting and Dog Walking in the Redmond and North Kirkland areas. Specializing in in-home pet care for your cats and mid-day Mon-Fri dog walks."/>
     <meta property="og:url" content="https://www.pawblemsolved.com/"/>
 </head>
 <body>
@@ -21,7 +21,7 @@
                 </div>
                 <div class="banner-text">
                     <h1>Dog Walkers &amp; Cat Sitters</h1>
-                    <h2>Bellevue &nbsp; Redmond &nbsp; Kirkland</h2>
+                    <h2>Redmond &nbsp; North Kirkland</h2>
                 </div>
                 <div class="banner-footer">
                     <a href="/request.php" class="request-button">Request a Pet Nanny</a>
@@ -240,9 +240,9 @@
 
                 <hr/>
                 <section>
-                    <h2>Servicing <b>Bellevue, Redmond, Kirkland</b></h2>
+                    <h2>Servicing <b>Redmond and North Kirkland</b></h2>
                     <a href="https://drive.google.com/open?id=1wnVC8kB15O56IOYh7gMVej28eEeJFlrD&usp=sharing" target="_blank">
-                        <img src="images/map4.png" id="map" alt="Image of all the Areas of Bellevue, Redmond and Kirkland that we service."/>
+                        <img src="images/map4.png" id="map" alt="Image of all the Areas of Redmond and North Kirkland that we service."/>
                     </a>
                 </section>
 

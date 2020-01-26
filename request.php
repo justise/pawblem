@@ -3,11 +3,11 @@
 <head>
     <title>Request Pet Sitting Services - Pawblem Solved: Dog Walkers and Pet Sitters</title>
 	<?PHP include('includes/meta.php'); ?>
-    <meta name="Description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas.">
+    <meta name="Description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas.">
     <meta property="og:title" content="Request Pet Sitting Services - Pawblem Solved"/>
     <meta name="twitter:title" content="Request Pet Sitting Services - Pawblem Solved"/>
-    <meta property="og:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
-    <meta name="twitter:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta property="og:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas."/>
+    <meta name="twitter:description" content="Request a Dog Walking or Pet Sitting services from Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas."/>
     <meta property="og:url" content="https://www.pawblemsolved.com/request.php"/>
 
     <link href="css/smoothness/jquery-ui-1.7.2.custom.css" rel="stylesheet"/>
@@ -38,74 +38,11 @@
                     <br/><br/>
 				</div>
                          
-                    <!-- 
-                <div class="busy-message">
-                  
-                <center>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <p class="red">
-                        Thank you so much for your interest in Pawblem Solved!
-                    </p>
-                    <p class="red">
-                        At this time, we are not able to accept new clients, but please do check back in the future.
-                    </p>
-                    <p class="red">
-                        For current clients, you can email your inquiries to: 
-                    </p>
-                    <p>
-                        <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>
-                    </p>
-                    <p>
-                       Thank you - The Pawblem Solved Team
-                    </p>
-                    <br/>
-                    <br/>
-                </center>
-                    Beginning mid-February, we will be accepting new mid-day walks, while mom & dad are at work, and kitty clients in the Bellevue, Redmond & Kirkland areas.
-                    <br/><br/>
-
-                    If you are a current client, or would like to book our services beginning mid-February or beyond, please contact us at <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>.
-                    <br/><br/>
-
-                    We look forward to meeting some new furry friends!
-                    <br/><br/>
-
-                    ~ The Pawblem Solved Team
-                  
-                </div>  
-						  
-                <div id="vacationresponse">
-					<br/>
-					<strong>
-						<p>
-							Pawblem Solved will be out of the office from Sunday, April 22nd to 
-							Sunday, April 29th, 2018.
-						</p>
-						<p>
-							We will reply to all inquiries after Sunday, April 29th, 2018.
-						</p>
-						<p>
-							If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
-						</p>
-						<p> 
-							Thanks again! 
-						</p>
-						<p>
-							We look forward to meeting some new furry friends!
-						</p>
-						<p>
-							~ The Pawblem Solved Team
-						</p>
-					</strong>
-				</div>-->   
-                  
+               
                 <form action="emailform.php" method="POST">
                                     <div class="statement">
                     <h1>
-                        Pawblem Solved offers mid-day dog walks while you're at work and cat visits in Bellevue, Redmond and Kirkland.
+                        Pawblem Solved offers mid-day dog walks while you're at work and cat visits in Redmond and North Kirkland.
                     </h1>
                 </div>
                     <div class="yui3-g-r">
@@ -171,11 +108,65 @@
                     </center>
 				</form>
 				
-          <!--
-                                <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
-						        -->                            
+<!--
+                <div id="vacationresponse">
+					<br/>
+					<strong>
+						<p>
+							Pawblem Solved will be out of the office from Sunday, April 22nd to 
+							Sunday, April 29th, 2018.
+						</p>
+						<p>
+							We will reply to all inquiries after Sunday, April 29th, 2018.
+						</p>
+						<p>
+							If you are a current client needing upcoming pet care, we will do our best to respond in a timely manner. 
+						</p>
+						<p> 
+							Thanks again! 
+						</p>
+						<p>
+							We look forward to meeting some new furry friends!
+						</p>
+						<p>
+							~ The Pawblem Solved Team
+						</p>
+					</strong>
+				</div>
+                  
+				 
+                <div class="busy-message">
+                  
+                <center>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <p class="red">
+                        Thank you so much for your interest in Pawblem Solved!
+                    </p>
+                    <p class="red">
+                        At this time, we are not able to accept new clients, but please do check back in the future.
+                    </p>
+                    <p class="red">
+                        For current clients, you can email your inquiries to: 
+                    </p>
+                    <p>
+                        <a href="mailto:info@pawblemsolved.com">info@pawblemsolved.com</a>
+                    </p>
+                    <p>
+                       Thank you - The Pawblem Solved Team
+                    </p>
+                    <br/>
+                    <br/>
+                </center>
+                  
+                </div>  
+
+                    <div class="input-message">We are currently booked for mid-day dog walks, but please do check back in the future!</div>
+						                                
                          
-						<!--
+				
 						<div>
 							<br/>
 								<p class="red">

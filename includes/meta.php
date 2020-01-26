@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
 <link rel="icon" type="img/ico" href="images/favicon.ico">
 <meta name="google-site-verification" content="Usmu6yAcz6VKluDFlY8muuovktEPRq8P1Htfh9dbLrs" />
-<meta name="keywords" content="Kirkland Pet Setting, Kirkland Cat Sitting, Kirkland Dog Sitting, Kirkland Dog Walking, Kirkland Pet Walking, Redmond Pet Setting, Redmond Cat Sitting, Redmond Dog Sitting, Redmond Dog Walking, Redmond Pet Walking, Bellevue Pet Setting, Bellevue Cat Sitting, Bellevue Dog Sitting, Bellevue Dog Walking, Bellevue Pet Walking, Pet Care, Dogs, Cats, House Sitting, Danielle Jaffy, Washington, Bellevue, Redmond, Kirkland, Seattle, 98052, 98053, 98073, 98033, 98034, 98083, 98004, 98005, 98006, 98007, 98008, 98009, 98015">
+<meta name="keywords" content="Kirkland Pet Setting, Kirkland Cat Sitting, Kirkland Dog Sitting, Kirkland Dog Walking, Kirkland Pet Walking, Redmond Pet Setting, Redmond Cat Sitting, Redmond Dog Sitting, Redmond Dog Walking, Redmond Pet Walking, Pet Care, Dogs, Cats, House Sitting, Danielle Jaffy, Washington, Redmond, North Kirkland, Kirkland, Juanita, Moss Bay, Seattle, 98052, 98053, 98073, 98033, 98034, 98083, 98004, 98005, 98006, 98007, 98008, 98009, 98015">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="prefetch" href="images/banners/cat2.jpg"/>
 <link rel="prefetch" href="images/banners/cat3.jpg"/>

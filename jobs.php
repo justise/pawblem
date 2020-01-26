@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - Jobs</title>
+    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond and North Kirkland - Jobs</title>
     <?PHP include('includes/meta.php'); ?>
 </head>
 <body>
@@ -65,7 +65,7 @@
                                 </ul>
                             </p>
                             <p>
-                                We prefer our team members live in one of our service areas; Redmond, Bellevue, Kirkland.
+                                We prefer our team members live in one of our service areas; Redmond and North Kirkland.
                             <p>
                                 Compensation is approximately $175 - $300 per week + tips
                             </p>

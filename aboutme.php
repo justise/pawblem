@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, Bellevue, Kirkland - About Me</title>
+    <title>Pawblem Solved Dog Walkers, Pet Sitters, Redmond, North Kirkland - About Me</title>
     <?PHP include('includes/meta.php'); ?>
 </head>
 <body>

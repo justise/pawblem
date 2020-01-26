@@ -3,11 +3,11 @@
 <head>
     <title>Pawblem Solvers - Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
-    <meta name="Description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas. ">
+    <meta name="Description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas. ">
     <meta property="og:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
     <meta name="twitter:title" content="Pawblem Solved: Dog Walker and Pet Sitter - Pawblem Solvers"/>
-    <meta property="og:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
-    <meta name="twitter:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta property="og:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas."/>
+    <meta name="twitter:description" content="The Pawblem Solved Team members. We are the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas."/>
     <meta property="og:url" content="https://www.pawblemsolved.com/petsitters.php"/>
 </head>
 <body>
@@ -62,7 +62,7 @@
 							I truly believe in this quote: <br/>
 							"We can judge the heart of a man by his treatment of animals." <cite>Immanuel Kant</cite>
 						</p>
-                         <h5>Service Area: Redmond, Bellevue, Kirkland</h5>
+                         <h5>Service Area: Redmond, North Kirkland</h5>
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
 						        what our pets teach us the most is to see with our heart and to love
 						        without condition.
 						    </p>
-                            <h5>Service Area: Bellevue, Kirkland</h5>
+                            <h5>Service Area: Redmond, Kirkland</h5>
                         </div>
                     </div>
                 </div>
@@ -161,7 +161,7 @@
 							    Now that I am in Grad School, walking and loving my four legged 
 							    friends has been a great joy.    
 						    </p>
-                            <h5>Service Area: Bellevue, Kirkland</h5>
+                            <h5>Service Area: Redmond, North Kirkland</h5>
                         </div>
                     </div>
                 </div>
@@ -196,7 +196,11 @@
                     </div>
                 </div>
                 
+               
+                
                 <hr/><br/>
+				<!-- RETIRED MEMBERS 
+                 <hr/><br/>
 
                  <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
@@ -224,8 +228,6 @@
                     </div>
                 </div>
                 
-                <hr/><br/>
-
                  <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
                         <div class="grid-wrapper">
@@ -255,66 +257,6 @@
                 
                 <hr/><br/>
 
-                 <div class="yui3-g-r">
-                    <div class="yui3-u-1-3">
-                        <div class="grid-wrapper">
-                            <img src="images/tiles/human17.jpg" title="Katy Carter" class="tile"/>
-                        
-                        </div>
-                    </div>
-                    <div class="yui3-u-2-3">
-                        <div class="grid-wrapper">
-                            <div class="names">
-                                <h2>Katy Carter</h2>
-                                <h4>Pet Nanny and Dog Walker</h4>
-                            </div>
-                            <p>
-                                I am drawn to animals and they teach me something new every day! 
-                            </p>
-                            <p> 
-                                I live on property that has been the forever home for many horses and dogs.  As for so many people, my relationships with the animals has made me a better human being.
-                            </p>
-                            <p>
-                                I've spent the last 40 years in the health care field and now I'm looking forward to loving and caring for my new furry acquaintances!
-                            </p>
-                            <h5>Service Area: Redmond</h5>
-                        </div>
-                    </div>
-                </div>
-                
-                <hr/><br/>
-
-                 <div class="yui3-g-r">
-                    <div class="yui3-u-1-3">
-                        <div class="grid-wrapper">
-                            <img src="images/tiles/human18.jpg" title="Lori Reiter" class="tile"/>
-                        
-                        </div>
-                    </div>
-                    <div class="yui3-u-2-3">
-                        <div class="grid-wrapper">
-                            <div class="names">
-                                <h2>Lori Reiter</h2>
-                                <h4>Pet Nanny and Dog Walker</h4>
-                            </div>
-                            <p>
-                                Hi, I'm Lori.  I have lived in Bellevue for 35 years, am recently retired and a life long pet owner. In the past, I have volunteered with the Human Society in Bellevue. I believe every animal deserves a safe and happy home.
-                            </p>
-                            <p> 
-                                I have always treated my pets like they were my family. I'm guessing you do too.
-I would love to come and walk your dog or visit with your cat. My promise to you is that I will give your pet the same love and attention you do.
-                            </p>
-                            <p>
-                                I look forward to the opportunity to meet you and your pet.
-                            </p>
-                            <h5>Service Area: Redmond, Bellevue, Kirkland</h5>
-                        </div>
-                    </div>
-                </div>
-                
-                <hr/><br/>
-				<!-- RETIRED MEMBERS 
-                
 
                  <div class="yui3-g-r">
                     <div class="yui3-u-1-3">
@@ -356,13 +298,13 @@ I would love to come and walk your dog or visit with your cat. My promise to you
 							    <h4>Pet Nanny and Dog Walker</h4>
 						    </div>
 						    <p>
-							   Hi Iím JC!   
+							   Hi I‚Äôm JC!   
 						    </p>
 						    <p>	
 							    I will always remember at the age of 5 yrs. old, that special day when my mother brought home our Beagle/Basset hound puppy. My love for animals began then.
 						    </p>
 						    <p>
-							    My husband and I have a household filled with four cats (Mia, Aussie, Rocco, Keiko) and two dogs  (Diesel and Rudy), that we love dearly and treat as children. Last year, we adopted Rudy, a senior (11 yrs. old) from Old Dog Haven. We have learned so much about caring for a senior dog. All of our furry ìkidsî are a bit quirky like Mia my long-haired cat who will steal your shoes in the middle of the night. Lol.
+							    My husband and I have a household filled with four cats (Mia, Aussie, Rocco, Keiko) and two dogs  (Diesel and Rudy), that we love dearly and treat as children. Last year, we adopted Rudy, a senior (11 yrs. old) from Old Dog Haven. We have learned so much about caring for a senior dog. All of our furry ‚Äúkids‚Äù are a bit quirky like Mia my long-haired cat who will steal your shoes in the middle of the night. Lol.
 						    </p>
                             <p>
                                 It will be my pleasure to provide lots of love and attention to your furry family member! 
@@ -388,10 +330,10 @@ I would love to come and walk your dog or visit with your cat. My promise to you
 							    <h4>Pet Nanny and Dog Walker</h4>
 						    </div>
 						    <p>
-							    I am Irmgard and live in Sammamish ñ I love animals and am really looking forward to bonding with your animal on a regular basis.
+							    I am Irmgard and live in Sammamish ‚Äì I love animals and am really looking forward to bonding with your animal on a regular basis.
 						    </p>
 						    <p>	
-							    Due to pet allergies in my family, it is not possible for me to have my own dog or cat, but given my current availability during the day, Iím hoping to come and spend time and get outdoor exercise for both your dogs as well as myself.
+							    Due to pet allergies in my family, it is not possible for me to have my own dog or cat, but given my current availability during the day, I‚Äôm hoping to come and spend time and get outdoor exercise for both your dogs as well as myself.
 						    </p>
 						    <p>
 							    In the past, I often helped friends and family take care of their animals during their absence or vacation and enjoyed it immensely.
@@ -462,8 +404,8 @@ I would love to come and walk your dog or visit with your cat. My promise to you
 						</div>
 						<p>
 						    I grew up on a 160 acre farm with animals of all shapes and sizes to play with and love.  I learned early that all animals have their own personality and bring joy in different ways.  
-							I also learned to pay attention to their moods to notice if they were happy and healthy.   I was a 4-Híer for 13 years.  I started showing the barnyard animals.  After a move and downsize, 
-							I headed to the 4-H dog program.  I started with my familyís already obedience trained Sheltie, Taffy.  Then, I raised two puppies for Guide Dogs for the Blind, a Golden Retriever, Mabel, 
+							I also learned to pay attention to their moods to notice if they were happy and healthy.   I was a 4-H‚Äôer for 13 years.  I started showing the barnyard animals.  After a move and downsize, 
+							I headed to the 4-H dog program.  I started with my family‚Äôs already obedience trained Sheltie, Taffy.  Then, I raised two puppies for Guide Dogs for the Blind, a Golden Retriever, Mabel, 
 							and a German Shepherd, Alexis.  At 16, I got MY obedience dog, Liesje, a Keeshond.  I was having so much fun with obedience classes and dog shows, my mom got a Miniature Poodle, Toby, 
 							and joined me.  Liesje and I earned our obedience CD (Companion Dog) title before I went off to college.  After college, Emily, a Staffordshire Terrier found her way into my life.  
 							Since 2009, my husband and I have two short haired gray cats, Eris and Thalia, who like having only a dog statue in the house. Loving cats has been an enjoyable adjustment for this 
@@ -490,26 +432,26 @@ I would love to come and walk your dog or visit with your cat. My promise to you
 						    My name is Diane and I am a Pawblem Solver!
 						</p>
 						<p>
-							My family had two animals when I was growing upÖSuzzie Wong, the Chinese Pug
+							My family had two animals when I was growing up‚Ä¶Suzzie Wong, the Chinese Pug
 							and Smokie, the Siamese Cat. They both had wonderfully unique personalities that
 							entertained my family constantly.
 						</p>
 						<p>
-							My first ìownî dog was Frango Mint (I love those candies ) a Black Labrador. She
+							My first ‚Äúown‚Äù dog was Frango Mint (I love those candies ) a Black Labrador. She
 							was very loving and sweet and was so gentle with my newborn fraternal twins. My next
-							dog was Rocco Gucci, a Norwegian Elkhound (Iím half Norwegian). He was quite the
-							character. He loved to go on ìsniff walksî and speedy snowshoeing hikes. Then Riley
+							dog was Rocco Gucci, a Norwegian Elkhound (I‚Äôm half Norwegian). He was quite the
+							character. He loved to go on ‚Äúsniff walks‚Äù and speedy snowshoeing hikes. Then Riley
 							became an addition to our family, an 18 pound Ragdoll. We had him on our sailboat
 							where his favorite thing was to boat hop going from one boat to the next greeting
 							everyone when we were in port.
 						</p>
 						<p>
 							Our current pup is Nicki para Nicaragua. We spent four years sailing the Pacific coast
-							and found her in Nicaragua. Sheís a small mixed dog and loves her Frisbee. Sheís our
+							and found her in Nicaragua. She‚Äôs a small mixed dog and loves her Frisbee. She‚Äôs our
 							baby.
 						</p>
 						<p>
-							Iím so happy to meet and take care of your beautiful cats and dogs!
+							I‚Äôm so happy to meet and take care of your beautiful cats and dogs!
 						</p>
 					</div>	
 				</div>
@@ -548,7 +490,7 @@ I would love to come and walk your dog or visit with your cat. My promise to you
 						<p>
 							Being originally from Brazil, I moved to Redmond in 2007, and back again in 2013. During my 
 							time in Brazil, I cared for, and brought back to health, a variety of homeless animals. 
-							After spending three years in Germany, I adopted my two beautiful cats, Flor-de-Lis and AmÈlie. 
+							After spending three years in Germany, I adopted my two beautiful cats, Flor-de-Lis and Am√©lie. 
 						</p>
 					</div>	
 					<div class="small-col text-align">
@@ -556,6 +498,67 @@ I would love to come and walk your dog or visit with your cat. My promise to you
 					</div>
 				
 				</div>
+
+                
+                <hr/><br/>
+
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human17.jpg" title="Katy Carter" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Katy Carter</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                I am drawn to animals and they teach me something new every day! 
+                            </p>
+                            <p> 
+                                I live on property that has been the forever home for many horses and dogs.  As for so many people, my relationships with the animals has made me a better human being.
+                            </p>
+                            <p>
+                                I've spent the last 40 years in the health care field and now I'm looking forward to loving and caring for my new furry acquaintances!
+                            </p>
+                            <h5>Service Area: Redmond</h5>
+                        </div>
+                    </div>
+                </div>
+                
+                <hr/><br/>
+
+                 <div class="yui3-g-r">
+                    <div class="yui3-u-1-3">
+                        <div class="grid-wrapper">
+                            <img src="images/tiles/human18.jpg" title="Lori Reiter" class="tile"/>
+                        
+                        </div>
+                    </div>
+                    <div class="yui3-u-2-3">
+                        <div class="grid-wrapper">
+                            <div class="names">
+                                <h2>Lori Reiter</h2>
+                                <h4>Pet Nanny and Dog Walker</h4>
+                            </div>
+                            <p>
+                                Hi, I'm Lori.  I have lived in Bellevue for 35 years, am recently retired and a life long pet owner. In the past, I have volunteered with the Human Society in Bellevue. I believe every animal deserves a safe and happy home.
+                            </p>
+                            <p> 
+                                I have always treated my pets like they were my family. I'm guessing you do too.
+I would love to come and walk your dog or visit with your cat. My promise to you is that I will give your pet the same love and attention you do.
+                            </p>
+                            <p>
+                                I look forward to the opportunity to meet you and your pet.
+                            </p>
+                            <h5>Service Area: Redmond, North Kirkland</h5>
+                        </div>
+                    </div>
+                </div>
+                
 				-->
 				<center>
                     <br/>

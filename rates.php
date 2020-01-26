@@ -3,11 +3,11 @@
 <head>
     <title>Dog walking and Pet Sitting Rates - Pawblem Solved: Dog Walkers and Pet Sitters</title>
     <?PHP include('includes/meta.php'); ?>
-    <meta name="Description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas.">
+    <meta name="Description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas.">
     <meta property="og:title" content="Dog walking and Pet Sitting Rates - Pawblem Solved"/>
     <meta name="twitter:title" content="Dog walking and Pet Sitting Rates - Pawblem Solved"/>
-    <meta property="og:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
-    <meta name="twitter:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond, Kirkland and Bellevue areas."/>
+    <meta property="og:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas."/>
+    <meta name="twitter:description" content="Rates for Pawblem Solved the Premier Pet Sitting and Dog Walking Service in the Redmond and North Kirkland areas."/>
     <meta property="og:url" content="https://www.pawblemsolved.com/rates.php"/>
 </head>
 <body>
